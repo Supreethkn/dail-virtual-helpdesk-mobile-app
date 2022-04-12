@@ -1,0 +1,1065 @@
+{
+    "mapareaheight": 558,
+    "projectname": "Resolution Test",
+    "isLandscape": true,
+    "mapareawidth": 992,
+    "category": [
+        {
+            "categoryicon": "Information.png",
+            "categoryname": "INFORMATION-B",
+            "categorycolorcode": "e4e4e4",
+            "categoryid": 185
+        },
+        {
+            "categoryicon": "lift.png",
+            "categoryname": "ELEVATOR-B",
+            "categorycolorcode": "9388BA",
+            "categoryid": 112
+        },
+        
+        {
+            "categoryicon": "toilets.png",
+            "categoryname": "WASHROOMS-B",
+            "categorycolorcode": "9388BA",
+            "categoryid": 128
+        },
+        {
+            "categoryicon": "babycare.png",
+            "categoryname": "CHILD CARE-B",
+            "categorycolorcode": "9388BA",
+            "categoryid": 136
+        },
+        {
+            "categoryicon": "Accessiblegentsladies.png",
+            "categoryname": "ACCESSIBLE/ LEGENT/LADIES-B",
+            "categorycolorcode": "9388BA",
+            "categoryid": 100
+        },
+      
+        {
+            "categoryicon": "smokingarea.png",
+            "categoryname": "SMOKING ROOM-B",
+            "categorycolorcode": "9388BA",
+            "categoryid": 133
+        },
+        
+        {
+            "categoryicon": "Prayer.png",
+            "categoryname": "PRAYER ROOM-B",
+            "categorycolorcode": "9388BA",
+            "categoryid": 138
+        },
+           
+        {
+            "categoryicon": "Waterfountain.png",
+            "categoryname": "WATER FOUNTAIN-B",
+            "categorycolorcode": "9388BA",
+            "categoryid": 183
+        },
+        {
+            "categoryicon": "Moneyexchange.png",
+            "categoryname": "MONEY EXCHANGE-B",
+            "categorycolorcode": "9388BA",
+            "categoryid": 160
+        },
+        
+        {
+            "categoryicon": "Firstaid.png",
+            "categoryname": "FIRST AID-B",
+            "categorycolorcode": "9388BA",
+            "categoryid": 156
+        },
+        
+        {
+            "categoryicon": "ATM.png",
+            "categoryname": "ATM-B",
+            "categorycolorcode": "9388BA",
+            "categoryid": 456
+        },
+        {
+            "categoryicon": "playarea.png",
+            "categoryname": "PRAYER AREA-B",
+            "categorycolorcode": "9388BA",
+            "categoryid": 123
+        },
+        {
+            "categoryicon": "sittingarea.png",
+            "categoryname": "SITTING AREA-B",
+            "categorycolorcode": "9388BA",
+            "categoryid": 789
+        },
+       
+        {
+            "categoryicon": "retail.png",
+            "categoryname": "RETAIL BRANDS",
+            "categorycolorcode": "9388BA",
+            "categoryid": 110
+        },
+        {
+            "categoryicon": "food.png",
+            "categoryname": "F & B BRANDS",
+            "categorycolorcode": "9388BA",
+            "categoryid": 120
+        },
+        {
+            "categoryicon": "gate.png",
+            "categoryname": "GATES",
+            "categorycolorcode": "9388BA",
+            "categoryid": 122
+        },
+        {
+            "categoryicon": "aminity.png",
+            "categoryname": "AMENITIES",
+            "categorycolorcode": "9388BA",
+            "categoryid": 124
+        }
+
+    ],
+   
+    "projectid": 470,
+    "park": [{
+        "zone": [{
+            "zoneid": 472,
+            "zonename": "घरेलू प्रस्थान",
+            "building": [{
+                "buildingname": "B1",
+                "floor": [{
+                    "floorid": 105,
+                        "mapid": 110,
+                        "kiosklist": [{
+                            "kioskdescription": "Ground Floor Kiosk1",
+                            "kioskxpos": 305,
+                            "kioskypos": 720,
+                            "kioskicon": "Left",
+                            "kioskname": "Ground Floor Kiosk1",
+                            "kioskid": 114
+                        }],
+                        "mapname": "New Delhi_T3_Domestic_Pre check in-01.svg",
+                        "floorname": "Floor 0",
+                        "floornumber": 0,
+                        "hotspotlist": [{
+                            "hotspotcolorcode": "9388BA",
+                            "transitmode": "na",
+                            "hotspotxpos": 878,
+                            "hotspotypos": 320,
+                            "svggroupid": "111_ALLEN_SOLLY",
+                            "hotspoticon": "Bercos.png",
+                            "transitforkioskid": "na",
+                            "hotspotdescription": "fabindia",
+                            "path": [{
+                                "pathpoints": "305,720, 305,700 728,700, 728,310, 878,310, 878,320",
+                                "kioskid": 114
+                            }],
+                            "hotspotstatus": "yes",
+                            "transithotspot": "no",
+                            "hotspotid": 162,
+                            "hotspotdisplayname": "FABINDIA",
+                            "categoryid": 120,
+                            "hotspotname": "FABINDIA"
+                        },
+                        {
+                            "hotspotcolorcode": "9388BA",
+                            "transitmode": "na",
+                            "hotspotxpos": 878,
+                            "hotspotypos": 320,
+                            "svggroupid": "111_ALLEN_SOLLY",
+                            "hotspoticon": "CDH.png",
+                            "transitforkioskid": "na",
+                            "hotspotdescription": "fabindia",
+                            "path": [{
+                                "pathpoints": "305,720, 305,700 728,700, 728,310, 878,310, 878,320",
+                                "kioskid": 114
+                            }],
+                            "hotspotstatus": "yes",
+                            "transithotspot": "no",
+                            "hotspotid": 162,
+                            "hotspotdisplayname": "FABINDIA",
+                            "categoryid": 120,
+                            "hotspotname": "FABINDIA"
+                        },
+                        {
+                            "hotspotcolorcode": "9388BA",
+                            "transitmode": "na",
+                            "hotspotxpos": 878,
+                            "hotspotypos": 320,
+                            "svggroupid": "111_ALLEN_SOLLY",
+                            "hotspoticon": "Cofee beans.png",
+                            "transitforkioskid": "na",
+                            "hotspotdescription": "fabindia",
+                            "path": [{
+                                "pathpoints": "305,720, 305,700 728,700, 728,310, 878,310, 878,320",
+                                "kioskid": 114
+                            }],
+                            "hotspotstatus": "yes",
+                            "transithotspot": "no",
+                            "hotspotid": 162,
+                            "hotspotdisplayname": "FABINDIA",
+                            "categoryid": 120,
+                            "hotspotname": "FABINDIA"
+                        },
+                        {
+                            "hotspotcolorcode": "9388BA",
+                            "transitmode": "na",
+                            "hotspotxpos": 878,
+                            "hotspotypos": 320,
+                            "svggroupid": "111_ALLEN_SOLLY",
+                            "hotspoticon": "Costa.png",
+                            "transitforkioskid": "na",
+                            "hotspotdescription": "fabindia",
+                            "path": [{
+                                "pathpoints": "305,720, 305,700 728,700, 728,310, 878,310, 878,320",
+                                "kioskid": 114
+                            }],
+                            "hotspotstatus": "yes",
+                            "transithotspot": "no",
+                            "hotspotid": 162,
+                            "hotspotdisplayname": "FABINDIA",
+                            "categoryid": 120,
+                            "hotspotname": "FABINDIA"
+                        },
+                        {
+                            "hotspotcolorcode": "9388BA",
+                            "transitmode": "na",
+                            "hotspotxpos": 878,
+                            "hotspotypos": 320,
+                            "svggroupid": "111_ALLEN_SOLLY",
+                            "hotspoticon": "Curry Kitchen.png",
+                            "transitforkioskid": "na",
+                            "hotspotdescription": "fabindia",
+                            "path": [{
+                                "pathpoints": "305,720, 305,700 728,700, 728,310, 878,310, 878,320",
+                                "kioskid": 114
+                            }],
+                            "hotspotstatus": "yes",
+                            "transithotspot": "no",
+                            "hotspotid": 162,
+                            "hotspotdisplayname": "FABINDIA",
+                            "categoryid": 120,
+                            "hotspotname": "FABINDIA"
+                        },
+                        {
+                            "hotspotcolorcode": "9388BA",
+                            "transitmode": "na",
+                            "hotspotxpos": 878,
+                            "hotspotypos": 320,
+                            "svggroupid": "111_ALLEN_SOLLY",
+                            "hotspoticon": "Dhaba @ T3.png",
+                            "transitforkioskid": "na",
+                            "hotspotdescription": "fabindia",
+                            "path": [{
+                                "pathpoints": "305,720, 305,700 728,700, 728,310, 878,310, 878,320",
+                                "kioskid": 114
+                            }],
+                            "hotspotstatus": "yes",
+                            "transithotspot": "no",
+                            "hotspotid": 162,
+                            "hotspotdisplayname": "FABINDIA",
+                            "categoryid": 120,
+                            "hotspotname": "FABINDIA"
+                        },
+                        {
+                            "hotspotcolorcode": "9388BA",
+                            "transitmode": "na",
+                            "hotspotxpos": 878,
+                            "hotspotypos": 320,
+                            "svggroupid": "111_ALLEN_SOLLY",
+                            "hotspoticon": "Dilli Strat.png",
+                            "transitforkioskid": "na",
+                            "hotspotdescription": "fabindia",
+                            "path": [{
+                                "pathpoints": "305,720, 305,700 728,700, 728,310, 878,310, 878,320",
+                                "kioskid": 114
+                            }],
+                            "hotspotstatus": "yes",
+                            "transithotspot": "no",
+                            "hotspotid": 162,
+                            "hotspotdisplayname": "FABINDIA",
+                            "categoryid": 120,
+                            "hotspotname": "FABINDIA"
+                        },
+                        {
+                            "hotspotcolorcode": "9388BA",
+                            "transitmode": "na",
+                            "hotspotxpos": 878,
+                            "hotspotypos": 320,
+                            "svggroupid": "111_ALLEN_SOLLY",
+                            "hotspoticon": "Dominos.png",
+                            "transitforkioskid": "na",
+                            "hotspotdescription": "fabindia",
+                            "path": [{
+                                "pathpoints": "305,720, 305,700 728,700, 728,310, 878,310, 878,320",
+                                "kioskid": 114
+                            }],
+                            "hotspotstatus": "yes",
+                            "transithotspot": "no",
+                            "hotspotid": 162,
+                            "hotspotdisplayname": "FABINDIA",
+                            "categoryid": 120,
+                            "hotspotname": "FABINDIA"
+                        },
+                        {
+                            "hotspotcolorcode": "9388BA",
+                            "transitmode": "na",
+                            "hotspotxpos": 878,
+                            "hotspotypos": 320,
+                            "svggroupid": "111_ALLEN_SOLLY",
+                            "hotspoticon": "Gopala.png",
+                            "transitforkioskid": "na",
+                            "hotspotdescription": "fabindia",
+                            "path": [{
+                                "pathpoints": "305,720, 305,700 728,700, 728,310, 878,310, 878,320",
+                                "kioskid": 114
+                            }],
+                            "hotspotstatus": "yes",
+                            "transithotspot": "no",
+                            "hotspotid": 162,
+                            "hotspotdisplayname": "FABINDIA",
+                            "categoryid": 120,
+                            "hotspotname": "FABINDIA"
+                        },
+                        {
+                            "hotspotcolorcode": "9388BA",
+                            "transitmode": "na",
+                            "hotspotxpos": 878,
+                            "hotspotypos": 320,
+                            "svggroupid": "111_ALLEN_SOLLY",
+                            "hotspoticon": "Haldiram.png",
+                            "transitforkioskid": "na",
+                            "hotspotdescription": "fabindia",
+                            "path": [{
+                                "pathpoints": "305,720, 305,700 728,700, 728,310, 878,310, 878,320",
+                                "kioskid": 114
+                            }],
+                            "hotspotstatus": "yes",
+                            "transithotspot": "no",
+                            "hotspotid": 162,
+                            "hotspotdisplayname": "FABINDIA",
+                            "categoryid": 120,
+                            "hotspotname": "FABINDIA"
+                        },
+                        {
+                            "hotspotcolorcode": "9388BA",
+                            "transitmode": "na",
+                            "hotspotxpos": 878,
+                            "hotspotypos": 320,
+                            "svggroupid": "111_ALLEN_SOLLY",
+                            "hotspoticon": "Idli.png",
+                            "transitforkioskid": "na",
+                            "hotspotdescription": "fabindia",
+                            "path": [{
+                                "pathpoints": "305,720, 305,700 728,700, 728,310, 878,310, 878,320",
+                                "kioskid": 114
+                            }],
+                            "hotspotstatus": "yes",
+                            "transithotspot": "no",
+                            "hotspotid": 162,
+                            "hotspotdisplayname": "FABINDIA",
+                            "categoryid": 120,
+                            "hotspotname": "FABINDIA"
+                        },
+                        {
+                            "hotspotcolorcode": "9388BA",
+                            "transitmode": "na",
+                            "hotspotxpos": 878,
+                            "hotspotypos": 320,
+                            "svggroupid": "111_ALLEN_SOLLY",
+                            "hotspoticon": "Karim's.png",
+                            "transitforkioskid": "na",
+                            "hotspotdescription": "fabindia",
+                            "path": [{
+                                "pathpoints": "305,720, 305,700 728,700, 728,310, 878,310, 878,320",
+                                "kioskid": 114
+                            }],
+                            "hotspotstatus": "yes",
+                            "transithotspot": "no",
+                            "hotspotid": 162,
+                            "hotspotdisplayname": "FABINDIA",
+                            "categoryid": 120,
+                            "hotspotname": "FABINDIA"
+                        },
+                        {
+                            "hotspotcolorcode": "9388BA",
+                            "transitmode": "na",
+                            "hotspotxpos": 878,
+                            "hotspotypos": 320,
+                            "svggroupid": "111_ALLEN_SOLLY",
+                            "hotspoticon": "KFC.png",
+                            "transitforkioskid": "na",
+                            "hotspotdescription": "fabindia",
+                            "path": [{
+                                "pathpoints": "305,720, 305,700 728,700, 728,310, 878,310, 878,320",
+                                "kioskid": 114
+                            }],
+                            "hotspotstatus": "yes",
+                            "transithotspot": "no",
+                            "hotspotid": 162,
+                            "hotspotdisplayname": "FABINDIA",
+                            "categoryid": 120,
+                            "hotspotname": "FABINDIA"
+                        },
+                        {
+                            "hotspotcolorcode": "9388BA",
+                            "transitmode": "na",
+                            "hotspotxpos": 878,
+                            "hotspotypos": 320,
+                            "svggroupid": "111_ALLEN_SOLLY",
+                            "hotspoticon": "Macdonald.png",
+                            "transitforkioskid": "na",
+                            "hotspotdescription": "fabindia",
+                            "path": [{
+                                "pathpoints": "305,720, 305,700 728,700, 728,310, 878,310, 878,320",
+                                "kioskid": 114
+                            }],
+                            "hotspotstatus": "yes",
+                            "transithotspot": "no",
+                            "hotspotid": 162,
+                            "hotspotdisplayname": "FABINDIA",
+                            "categoryid": 120,
+                            "hotspotname": "FABINDIA"
+                        },
+                        {
+                            "hotspotcolorcode": "9388BA",
+                            "transitmode": "na",
+                            "hotspotxpos": 878,
+                            "hotspotypos": 320,
+                            "svggroupid": "111_ALLEN_SOLLY",
+                            "hotspoticon": "Subway.png",
+                            "transitforkioskid": "na",
+                            "hotspotdescription": "fabindia",
+                            "path": [{
+                                "pathpoints": "305,720, 305,700 728,700, 728,310, 878,310, 878,320",
+                                "kioskid": 114
+                            }],
+                            "hotspotstatus": "yes",
+                            "transithotspot": "no",
+                            "hotspotid": 162,
+                            "hotspotdisplayname": "FABINDIA",
+                            "categoryid": 120,
+                            "hotspotname": "FABINDIA"
+                        },
+                        {
+                            "hotspotcolorcode": "9388BA",
+                            "transitmode": "na",
+                            "hotspotxpos": 878,
+                            "hotspotypos": 320,
+                            "svggroupid": "111_ALLEN_SOLLY",
+                            "hotspoticon": "Cofee beans.png",
+                            "transitforkioskid": "na",
+                            "hotspotdescription": "Cofee beans",
+                            "path": [{
+                                "pathpoints": "305,720, 305,700 728,700, 728,310, 878,310, 878,320",
+                                "kioskid": 114
+                            }],
+                            "hotspotstatus": "yes",
+                            "transithotspot": "no",
+                            "hotspotid": 162,
+                            "hotspotdisplayname": "Cofee beans",
+                            "categoryid": 120,
+                            "hotspotname": "Cofee beans"
+                        },
+                        {
+                            "hotspotcolorcode": "9388BA",
+                            "transitmode": "na",
+                            "hotspotxpos": 878,
+                            "hotspotypos": 320,
+                            "svggroupid": "111_ALLEN_SOLLY",
+                            "hotspoticon": "Costa.png",
+                            "transitforkioskid": "na",
+                            "hotspotdescription": "Costa",
+                            "path": [{
+                                "pathpoints": "305,720, 305,700 728,700, 728,310, 878,310, 878,320",
+                                "kioskid": 114
+                            }],
+                            "hotspotstatus": "yes",
+                            "transithotspot": "no",
+                            "hotspotid": 162,
+                            "hotspotdisplayname": "Costa",
+                            "categoryid": 120,
+                            "hotspotname": "Costa"
+                        },
+                        {
+                            "hotspotcolorcode": "9388BA",
+                            "transitmode": "na",
+                            "hotspotxpos": 878,
+                            "hotspotypos": 320,
+                            "svggroupid": "111_ALLEN_SOLLY",
+                            "hotspoticon": "Curry Kitchen.png",
+                            "transitforkioskid": "na",
+                            "hotspotdescription": "Curry Kitchen",
+                            "path": [{
+                                "pathpoints": "305,720, 305,700 728,700, 728,310, 878,310, 878,320",
+                                "kioskid": 114
+                            }],
+                            "hotspotstatus": "yes",
+                            "transithotspot": "no",
+                            "hotspotid": 162,
+                            "hotspotdisplayname": "Curry Kitchen",
+                            "categoryid": 120,
+                            "hotspotname": "Curry Kitchen"
+                        },
+                        {
+                            "hotspotcolorcode": "9388BA",
+                            "transitmode": "na",
+                            "hotspotxpos": 878,
+                            "hotspotypos": 320,
+                            "svggroupid": "111_ALLEN_SOLLY",
+                            "hotspoticon": "Dhaba @ T3.png",
+                            "transitforkioskid": "na",
+                            "hotspotdescription": "Dhaba @ T3",
+                            "path": [{
+                                "pathpoints": "305,720, 305,700 728,700, 728,310, 878,310, 878,320",
+                                "kioskid": 114
+                            }],
+                            "hotspotstatus": "yes",
+                            "transithotspot": "no",
+                            "hotspotid": 162,
+                            "hotspotdisplayname": "Dhaba @ T3",
+                            "categoryid": 120,
+                            "hotspotname": "Dhaba @ T3"
+                        },
+                        {
+                            "hotspotcolorcode": "9388BA",
+                            "transitmode": "na",
+                            "hotspotxpos": 878,
+                            "hotspotypos": 320,
+                            "svggroupid": "111_ALLEN_SOLLY",
+                            "hotspoticon": "Dilli Strat.png",
+                            "transitforkioskid": "na",
+                            "hotspotdescription": "Dilli Strat",
+                            "path": [{
+                                "pathpoints": "305,720, 305,700 728,700, 728,310, 878,310, 878,320",
+                                "kioskid": 114
+                            }],
+                            "hotspotstatus": "yes",
+                            "transithotspot": "no",
+                            "hotspotid": 162,
+                            "hotspotdisplayname": "Dilli Strat",
+                            "categoryid": 120,
+                            "hotspotname": "Dilli Strat"
+                        },
+                        {
+                            "hotspotcolorcode": "9388BA",
+                            "transitmode": "na",
+                            "hotspotxpos": 878,
+                            "hotspotypos": 320,
+                            "svggroupid": "111_ALLEN_SOLLY",
+                            "hotspoticon": "Dominos.png",
+                            "transitforkioskid": "na",
+                            "hotspotdescription": "Dominos",
+                            "path": [{
+                                "pathpoints": "305,720, 305,700 728,700, 728,310, 878,310, 878,320",
+                                "kioskid": 114
+                            }],
+                            "hotspotstatus": "yes",
+                            "transithotspot": "no",
+                            "hotspotid": 162,
+                            "hotspotdisplayname": "Dominos",
+                            "categoryid": 120,
+                            "hotspotname": "Dominos"
+                        },
+                        {
+                            "hotspotcolorcode": "9388BA",
+                            "transitmode": "na",
+                            "hotspotxpos": 878,
+                            "hotspotypos": 320,
+                            "svggroupid": "111_ALLEN_SOLLY",
+                            "hotspoticon": "Gopala.png",
+                            "transitforkioskid": "na",
+                            "hotspotdescription": "Gopala",
+                            "path": [{
+                                "pathpoints": "305,720, 305,700 728,700, 728,310, 878,310, 878,320",
+                                "kioskid": 114
+                            }],
+                            "hotspotstatus": "yes",
+                            "transithotspot": "no",
+                            "hotspotid": 162,
+                            "hotspotdisplayname": "Gopala",
+                            "categoryid": 120,
+                            "hotspotname": "Gopala"
+                        },
+                        {
+                            "hotspotcolorcode": "9388BA",
+                            "transitmode": "na",
+                            "hotspotxpos": 878,
+                            "hotspotypos": 320,
+                            "svggroupid": "111_ALLEN_SOLLY",
+                            "hotspoticon": "Haldiram.png",
+                            "transitforkioskid": "na",
+                            "hotspotdescription": "Haldiram",
+                            "path": [{
+                                "pathpoints": "305,720, 305,700 728,700, 728,310, 878,310, 878,320",
+                                "kioskid": 114
+                            }],
+                            "hotspotstatus": "yes",
+                            "transithotspot": "no",
+                            "hotspotid": 162,
+                            "hotspotdisplayname": "Haldiram",
+                            "categoryid": 120,
+                            "hotspotname": "Haldiram"
+                        },
+                        {
+                            "hotspotcolorcode": "9388BA",
+                            "transitmode": "na",
+                            "hotspotxpos": 878,
+                            "hotspotypos": 320,
+                            "svggroupid": "111_ALLEN_SOLLY",
+                            "hotspoticon": "Idli.png",
+                            "transitforkioskid": "na",
+                            "hotspotdescription": "Idli",
+                            "path": [{
+                                "pathpoints": "305,720, 305,700 728,700, 728,310, 878,310, 878,320",
+                                "kioskid": 114
+                            }],
+                            "hotspotstatus": "yes",
+                            "transithotspot": "no",
+                            "hotspotid": 162,
+                            "hotspotdisplayname": "Idli",
+                            "categoryid": 120,
+                            "hotspotname": "Idli"
+                        },
+                        {
+                            "hotspotcolorcode": "9388BA",
+                            "transitmode": "na",
+                            "hotspotxpos": 878,
+                            "hotspotypos": 320,
+                            "svggroupid": "111_ALLEN_SOLLY",
+                            "hotspoticon": "Karim's.png",
+                            "transitforkioskid": "na",
+                            "hotspotdescription": "Karim's",
+                            "path": [{
+                                "pathpoints": "305,720, 305,700 728,700, 728,310, 878,310, 878,320",
+                                "kioskid": 114
+                            }],
+                            "hotspotstatus": "yes",
+                            "transithotspot": "no",
+                            "hotspotid": 162,
+                            "hotspotdisplayname": "Karim's",
+                            "categoryid": 120,
+                            "hotspotname": "Karim's"
+                        },
+                        {
+                            "hotspotcolorcode": "9388BA",
+                            "transitmode": "na",
+                            "hotspotxpos": 878,
+                            "hotspotypos": 320,
+                            "svggroupid": "111_ALLEN_SOLLY",
+                            "hotspoticon": "KFC.png",
+                            "transitforkioskid": "na",
+                            "hotspotdescription": "KFC",
+                            "path": [{
+                                "pathpoints": "305,720, 305,700 728,700, 728,310, 878,310, 878,320",
+                                "kioskid": 114
+                            }],
+                            "hotspotstatus": "yes",
+                            "transithotspot": "no",
+                            "hotspotid": 162,
+                            "hotspotdisplayname": "KFC",
+                            "categoryid": 120,
+                            "hotspotname": "KFC"
+                        },
+                        {
+                            "hotspotcolorcode": "9388BA",
+                            "transitmode": "na",
+                            "hotspotxpos": 878,
+                            "hotspotypos": 320,
+                            "svggroupid": "111_ALLEN_SOLLY",
+                            "hotspoticon": "Macdonald.png",
+                            "transitforkioskid": "na",
+                            "hotspotdescription": "Macdonald",
+                            "path": [{
+                                "pathpoints": "305,720, 305,700 728,700, 728,310, 878,310, 878,320",
+                                "kioskid": 114
+                            }],
+                            "hotspotstatus": "yes",
+                            "transithotspot": "no",
+                            "hotspotid": 162,
+                            "hotspotdisplayname": "Macdonald",
+                            "categoryid": 120,
+                            "hotspotname": "Macdonald"
+                        },
+                        {
+                            "hotspotcolorcode": "9388BA",
+                            "transitmode": "na",
+                            "hotspotxpos": 878,
+                            "hotspotypos": 320,
+                            "svggroupid": "111_ALLEN_SOLLY",
+                            "hotspoticon": "Subway.png",
+                            "transitforkioskid": "na",
+                            "hotspotdescription": "Subway",
+                            "path": [{
+                                "pathpoints": "305,720, 305,700 728,700, 728,310, 878,310, 878,320",
+                                "kioskid": 114
+                            }],
+                            "hotspotstatus": "yes",
+                            "transithotspot": "no",
+                            "hotspotid": 162,
+                            "hotspotdisplayname": "Subway",
+                            "categoryid": 120,
+                            "hotspotname": "Subway"
+                        },
+                        {
+                            "hotspotcolorcode": "9388BA",
+                            "transitmode": "na",
+                            "hotspotxpos": 878,
+                            "hotspotypos": 320,
+                            "svggroupid": "111_ALLEN_SOLLY",
+                            "hotspoticon": "Ethos.png",
+                            "transitforkioskid": "na",
+                            "hotspotdescription": "fabindia",
+                            "path": [{
+                                "pathpoints": "305,720, 305,700 728,700, 728,310, 878,310, 878,320",
+                                "kioskid": 114
+                            }],
+                            "hotspotstatus": "yes",
+                            "transithotspot": "no",
+                            "hotspotid": 162,
+                            "hotspotdisplayname": "FABINDIA",
+                            "categoryid": 110,
+                            "hotspotname": "FABINDIA"
+                        },
+                        {
+                            "hotspotcolorcode": "9388BA",
+                            "transitmode": "na",
+                            "hotspotxpos": 878,
+                            "hotspotypos": 320,
+                            "svggroupid": "111_ALLEN_SOLLY",
+                            "hotspoticon": "Fab India.png",
+                            "transitforkioskid": "na",
+                            "hotspotdescription": "fabindia",
+                            "path": [{
+                                "pathpoints": "305,720, 305,700 728,700, 728,310, 878,310, 878,320",
+                                "kioskid": 114
+                            }],
+                            "hotspotstatus": "yes",
+                            "transithotspot": "no",
+                            "hotspotid": 162,
+                            "hotspotdisplayname": "FABINDIA",
+                            "categoryid": 110,
+                            "hotspotname": "FABINDIA"
+                        },
+                        {
+                            "hotspotcolorcode": "9388BA",
+                            "transitmode": "na",
+                            "hotspotxpos": 878,
+                            "hotspotypos": 320,
+                            "svggroupid": "111_ALLEN_SOLLY",
+                            "hotspoticon": "Guardian Pharmacy.png",
+                            "transitforkioskid": "na",
+                            "hotspotdescription": "fabindia",
+                            "path": [{
+                                "pathpoints": "305,720, 305,700 728,700, 728,310, 878,310, 878,320",
+                                "kioskid": 114
+                            }],
+                            "hotspotstatus": "yes",
+                            "transithotspot": "no",
+                            "hotspotid": 162,
+                            "hotspotdisplayname": "FABINDIA",
+                            "categoryid": 110,     
+                            "hotspotname": "FABINDIA"
+                        },
+                        {
+                            "hotspotcolorcode": "9388BA",
+                            "transitmode": "na",
+                            "hotspotxpos": 878,
+                            "hotspotypos": 320,
+                            "svggroupid": "111_ALLEN_SOLLY",
+                            "hotspoticon": "Hamleys.png",
+                            "transitforkioskid": "na",
+                            "hotspotdescription": "fabindia",
+                            "path": [{
+                                "pathpoints": "305,720, 305,700 728,700, 728,310, 878,310, 878,320",
+                                "kioskid": 114
+                            }],
+                            "hotspotstatus": "yes",
+                            "transithotspot": "no",
+                            "hotspotid": 162,
+                            "hotspotdisplayname": "FABINDIA",
+                            "categoryid": 110,
+                            "hotspotname": "FABINDIA"
+                        },
+                        {
+                            "hotspotcolorcode": "9388BA",
+                            "transitmode": "na",
+                            "hotspotxpos": 878,
+                            "hotspotypos": 320,
+                            "svggroupid": "111_ALLEN_SOLLY",
+                            "hotspoticon": "kiko.png",
+                            "transitforkioskid": "na",
+                            "hotspotdescription": "fabindia",
+                            "path": [{
+                                "pathpoints": "305,720, 305,700 728,700, 728,310, 878,310, 878,320",
+                                "kioskid": 114
+                            }],
+                            "hotspotstatus": "yes",
+                            "transithotspot": "no",
+                            "hotspotid": 162,
+                            "hotspotdisplayname": "FABINDIA",
+                            "categoryid": 110,
+                            "hotspotname": "FABINDIA"
+                        },
+                        {
+                            "hotspotcolorcode": "9388BA",
+                            "transitmode": "na",
+                            "hotspotxpos": 878,
+                            "hotspotypos": 320,
+                            "svggroupid": "111_ALLEN_SOLLY",
+                            "hotspoticon": "Luxurious Ayurveda.png",
+                            "transitforkioskid": "na",
+                            "hotspotdescription": "fabindia",
+                            "path": [{
+                                "pathpoints": "305,720, 305,700 728,700, 728,310, 878,310, 878,320",
+                                "kioskid": 114
+                            }],
+                            "hotspotstatus": "yes",
+                            "transithotspot": "no",
+                            "hotspotid": 162,
+                            "hotspotdisplayname": "FABINDIA",
+                            "categoryid": 110,
+                            "hotspotname": "FABINDIA"
+                        },
+                        {
+                            "hotspotcolorcode": "9388BA",
+                            "transitmode": "na",
+                            "hotspotxpos": 878,
+                            "hotspotypos": 320,
+                            "svggroupid": "111_ALLEN_SOLLY",
+                            "hotspoticon": "Mark & Spencers.png",
+                            "transitforkioskid": "na",
+                            "hotspotdescription": "fabindia",
+                            "path": [{
+                                "pathpoints": "305,720, 305,700 728,700, 728,310, 878,310, 878,320",
+                                "kioskid": 114
+                            }],
+                            "hotspotstatus": "yes",
+                            "transithotspot": "no",
+                            "hotspotid": 162,
+                            "hotspotdisplayname": "FABINDIA",
+                            "categoryid": 110,
+                            "hotspotname": "FABINDIA"
+                        },
+                        {
+                            "hotspotcolorcode": "9388BA",
+                            "transitmode": "na",
+                            "hotspotxpos": 878,
+                            "hotspotypos": 320,
+                            "svggroupid": "111_ALLEN_SOLLY",
+                            "hotspoticon": "Nourish.png",
+                            "transitforkioskid": "na",
+                            "hotspotdescription": "fabindia",
+                            "path": [{
+                                "pathpoints": "305,720, 305,700 728,700, 728,310, 878,310, 878,320",
+                                "kioskid": 114
+                            }],
+                            "hotspotstatus": "yes",
+                            "transithotspot": "no",
+                            "hotspotid": 162,
+                            "hotspotdisplayname": "FABINDIA",
+                            "categoryid": 110,
+                            "hotspotname": "FABINDIA"
+                        },
+                        {
+                            "hotspotcolorcode": "9388BA",
+                            "transitmode": "na",
+                            "hotspotxpos": 878,
+                            "hotspotypos": 320,
+                            "svggroupid": "111_ALLEN_SOLLY",
+                            "hotspoticon": "Tanishq.png",
+                            "transitforkioskid": "na",
+                            "hotspotdescription": "fabindia",
+                            "path": [{
+                                "pathpoints": "305,720, 305,700 728,700, 728,310, 878,310, 878,320",
+                                "kioskid": 114
+                            }],
+                            "hotspotstatus": "yes",
+                            "transithotspot": "no",
+                            "hotspotid": 162,
+                            "hotspotdisplayname": "FABINDIA",
+                            "categoryid": 110,
+                            "hotspotname": "FABINDIA"
+                        },
+                        {
+                            "hotspotcolorcode": "9388BA",
+                            "transitmode": "na",
+                            "hotspotxpos": 878,
+                            "hotspotypos": 320,
+                            "svggroupid": "111_ALLEN_SOLLY",
+                            "hotspoticon": "United Colors Of Beneton.png",
+                            "transitforkioskid": "na",
+                            "hotspotdescription": "fabindia",
+                            "path": [{
+                                "pathpoints": "305,720, 305,700 728,700, 728,310, 878,310, 878,320",
+                                "kioskid": 114
+                            }],
+                            "hotspotstatus": "yes",
+                            "transithotspot": "no",
+                            "hotspotid": 162,
+                            "hotspotdisplayname": "FABINDIA",
+                            "categoryid": 110,
+                            "hotspotname": "FABINDIA"
+                        },
+                        {
+                            "hotspotcolorcode": "9388BA",
+                            "transitmode": "na",
+                            "hotspotxpos": 878,
+                            "hotspotypos": 320,
+                            "svggroupid": "111_ALLEN_SOLLY",
+                            "hotspoticon": "WH Smith.png",
+                            "transitforkioskid": "na",
+                            "hotspotdescription": "fabindia",
+                            "path": [{
+                                "pathpoints": "305,720, 305,700 728,700, 728,310, 878,310, 878,320",
+                                "kioskid": 114
+                            }],
+                            "hotspotstatus": "yes",
+                            "transithotspot": "no",
+                            "hotspotid": 162,
+                            "hotspotdisplayname": "FABINDIA",
+                            "categoryid": 110,
+                            "hotspotname": "FABINDIA"
+                        }
+                    ]
+                }
+            ],
+                "buildingid": 475
+            }
+        ]
+    }, 
+    {
+            "zoneid": 474,
+            "zonename": "अंतर्राष्ट्रीय प्रस्थान",
+            "building": [
+                {
+                "buildingname": "B1",
+                "floor": [
+                    {
+                    "floorid": 106,
+                    "mapid": 112,
+                    "kiosklist": [{
+                        "kioskdescription": "Ground Floor Kiosk1",
+                        "kioskxpos": 305,
+                        "kioskypos": 720,
+                        "kioskicon": "Left",
+                        "kioskname": "Ground Floor Kiosk1",
+                        "kioskid": 114
+                    }],
+                    "mapname": "New Delhi_T3_International_Pre check in-01.svg",
+                    "floorname": "Floor 0",
+                    "floornumber": 0,
+                    "hotspotlist": [
+                        {
+                        "hotspotcolorcode": "9388BA",
+                        "transitmode": "na",
+                        "hotspotxpos": 878,
+                        "hotspotypos": 320,
+                        "svggroupid": "111_ALLEN_SOLLY",
+                        "hotspoticon": "Dominos.png",
+                        "transitforkioskid": "na",
+                        "hotspotdescription": "fabindia",
+                        "path": [{
+                            "pathpoints": "305,720, 305,700 728,700, 728,310, 878,310, 878,320",
+                            "kioskid": 114
+                        }],
+                        "hotspotstatus": "yes",
+                        "transithotspot": "no",
+                        "hotspotid": 168,
+                        "hotspotdisplayname": "FABINDIA",
+                        "categoryid": 120,
+                        "hotspotname": "FABINDIA"
+                    },
+                    {
+                        "hotspotcolorcode": "9388BA",
+                        "transitmode": "na",
+                        "hotspotxpos": 878,
+                        "hotspotypos": 320,
+                        "svggroupid": "111_ALLEN_SOLLY",
+                        "hotspoticon": "Haldiram.png",
+                        "transitforkioskid": "na",
+                        "hotspotdescription": "fabindia",
+                        "path": [{
+                            "pathpoints": "305,720, 305,700 728,700, 728,310, 878,310, 878,320",
+                            "kioskid": 114
+                        }],
+                        "hotspotstatus": "yes",
+                        "transithotspot": "no",
+                        "hotspotid": 162,
+                        "hotspotdisplayname": "FABINDIA",
+                        "categoryid": 120,
+                        "hotspotname": "FABINDIA"
+                    },
+                    {
+                        "hotspotcolorcode": "9388BA",
+                        "transitmode": "na",
+                        "hotspotxpos": 878,
+                        "hotspotypos": 320,
+                        "svggroupid": "111_ALLEN_SOLLY",
+                        "hotspoticon": "Gopala.png",
+                        "transitforkioskid": "na",
+                        "hotspotdescription": "fabindia",
+                        "path": [{
+                            "pathpoints": "305,720, 305,700 728,700, 728,310, 878,310, 878,320",
+                            "kioskid": 114
+                        }],
+                        "hotspotstatus": "yes",
+                        "transithotspot": "no",
+                        "hotspotid": 165,
+                        "hotspotdisplayname": "FABINDIA",
+                        "categoryid": 110,
+                        "hotspotname": "FABINDIA"
+                    },
+                    {
+                        "hotspotcolorcode": "9388BA",
+                        "transitmode": "na",
+                        "hotspotxpos": 878,
+                        "hotspotypos": 320,
+                        "svggroupid": "111_ALLEN_SOLLY",
+                        "hotspoticon": "Mark & Spencers.png",
+                        "transitforkioskid": "na",
+                        "hotspotdescription": "fabindia",
+                        "path": [{
+                            "pathpoints": "305,720, 305,700 728,700, 728,310, 878,310, 878,320",
+                            "kioskid": 114
+                        }],
+                        "hotspotstatus": "yes",
+                        "transithotspot": "no",
+                        "hotspotid": 162,
+                        "hotspotdisplayname": "FABINDIA",
+                        "categoryid": 110,
+                        "hotspotname": "FABINDIA"
+                    },
+                    {
+                        "hotspotcolorcode": "9388BA",
+                        "transitmode": "na",
+                        "hotspotxpos": 878,
+                        "hotspotypos": 320,
+                        "svggroupid": "111_ALLEN_SOLLY",
+                        "hotspoticon": "Nourish.png",
+                        "transitforkioskid": "na",
+                        "hotspotdescription": "fabindia",
+                        "path": [{
+                            "pathpoints": "305,720, 305,700 728,700, 728,310, 878,310, 878,320",
+                            "kioskid": 114
+                        }],
+                        "hotspotstatus": "yes",
+                        "transithotspot": "no",
+                        "hotspotid": 162,
+                        "hotspotdisplayname": "FABINDIA",
+                        "categoryid": 110,
+                        "hotspotname": "FABINDIA"
+                    }
+                ]
+            }
+        ],
+                "buildingid": 476
+            }
+        ]
+      }
+    ],
+        "parkid": 473,
+        "parkname": "Airport Pre-Checkin",
+		"mapid": 494,
+		"kiosklist": [],
+		"mapname": "New Delhi_T3_Domestic_International_Pre-check in-01.svg",
+        "hotspotlist": []
+    }
+  ]
+}

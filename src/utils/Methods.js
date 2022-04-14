@@ -39,9 +39,14 @@ export default {
         return floorNo
     },
 
-    getKioskPos(kioskId) {
+    getKioskPos(kioskId, mapType) {
         let kioskPos = { x: 0, y: 0 }
-        var zones = json.park[0].zone
+        var zones = []
+        if (mapType == "pri") {
+            zones = json.park[0].zone
+        } else {
+            zones.push(json.park[0].zone[0])
+        }
         var checkflag = false
         for (let k in zones) {
             let floors = zones[k].building[0].floor
@@ -125,7 +130,8 @@ export default {
                                 kioskAndHotspotData.hotspotxpos = floors[i].hotspotlist[j].hotspotxpos
                                 kioskAndHotspotData.hotspotypos = floors[i].hotspotlist[j].hotspotypos
                                 kioskAndHotspotData.departurename = zones[k].zonename
-                                kioskAndHotspotData.mapname = floors[i].mapname
+                                let mapname = (mapType == 'pri' ? floors[i].mapname.pri : floors[i].mapname.dom)
+                                kioskAndHotspotData.mapname = mapname
                                 kioskAndHotspotData.displayname = floors[i].hotspotlist[j].hotspotdisplayname
                                 for (let x = 0; x < floors[i].hotspotlist[j].path.length; x++) {
                                     if (floors[i].hotspotlist[j].path[x].kioskid == kioskId) {
@@ -146,16 +152,26 @@ export default {
         return kioskAndHotspotData
     },
 
-    getTransitPathPoints(kioskId, hotspotId, kioskFloorNo, HotspotFloorNo) {
-        // let kioskId = Constants.kioskid
-        let floorData = getAllFloorData(json)
+    getTransitPathPoints(kioskId, hotspotId, kioskFloorNo, HotspotFloorNo, mapType, departureType) {
+        let floorData = []
+        if (departureType == "dm") {
+            let items = json.park[0].zone[0].building[0].floor
+            for (let i in items) {
+                floorData.push(items[i]);
+            }
+        } else {
+            let items = json.park[0].zone[1].building[0].floor
+            for (let i in items) {
+                floorData.push(items[i]);
+            }
+        }
 
         let map1Data = floorData.filter((element, index) => {
-            return (element.floornumber == (kioskFloorNo - 1))
+            return (element.floornumber == (kioskFloorNo))
         })
 
         let map2Data = floorData.filter((element, index) => {
-            return (element.floornumber == (HotspotFloorNo - 1))
+            return (element.floornumber == (HotspotFloorNo))
         })
 
         let map2path = []
@@ -170,7 +186,9 @@ export default {
         for (let i = 0; i < map2path.path.length; i++) {
             for (let j = 0; j < map2Data[0].hotspotlist.length; j++) {
                 if (map2path.path[i].kioskid == map2Data[0].hotspotlist[j].hotspotid && map2Data[0].hotspotlist[j].transithotspot == 'yes') {
+                    let mapname = (mapType == 'pri' ? map2Data[0].mapname.pri : map2Data[0].mapname.dom)
                     map2pathPoints = {
+                        "mapname": mapname,
                         "transitmode": map2Data[0].hotspotlist[j].transitmode,
                         "hotspotxpos": map2path.hotspotxpos,
                         "hotspotypos": map2path.hotspotypos,
@@ -192,7 +210,9 @@ export default {
             for (let j = 0; j < map1Data[0].hotspotlist.length; j++) {
                 for (let k = 0; k < map1Data[0].hotspotlist[j].path.length; k++) {
                     if (transitmode[i] == map1Data[0].hotspotlist[j].transitmode && kioskId == map1Data[0].hotspotlist[j].path[k].kioskid) {
+                        let mapname = (mapType == 'pri' ? map1Data[0].mapname.pri : map1Data[0].mapname.dom)
                         map1pathPoints = {
+                            "mapname": mapname,
                             "transitmode": map1Data[0].hotspotlist[j].transitmode,
                             "hotspotxpos": map1Data[0].hotspotlist[j].hotspotxpos,
                             "hotspotypos": map1Data[0].hotspotlist[j].hotspotypos,

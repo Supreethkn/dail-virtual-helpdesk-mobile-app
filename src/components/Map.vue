@@ -6,7 +6,6 @@
 </template>
 <script>
 import $ from 'jquery'
-import Methods from '@/utils/Methods.js'
 
 var viewBox = {x: 0, y:0, w:1000, h:900}, movedViewBox = viewBox, myPointers = [], lastDif = -1, scale = 1, startPoint = {x: 0, y: 0}, endPoint = startPoint, isSinglePointer = true;
 var svgSize = {
@@ -14,16 +13,16 @@ var svgSize = {
     h:900
 };
 export default{
-    props: ["mapName","svgid","zoneName", "kioskxpos", "kioskypos", "hotspotPos", 'pathpoints', "departurename"],  
+    props: ["mapName","svgid","zoneName", "kioskxpos", "kioskypos", "hotspotPos", 'pathpoints', "departurename", "showKioskPos", "mapType"],  
     mounted(){
         let departurename = this.departurename
-
+        var svgMapName = this.mapName;
         setTimeout(() => {
             let svgid = this.svgid;
             let mapLoaded = false
             let screenWidth = screen.availWidth
             let screenHeight = screen.availHeight
-           
+            let mapType = this.mapType
             $.ajax({
                 url: require(`@/assets/map/${this.mapName}`) ,
                 dataType: 'html',
@@ -32,9 +31,20 @@ export default{
                 {       
                     // console.log(data);  
                     $(`#${svgid}`).replaceWith(data);
-                    let sh = (screenHeight + 100 < 787 ? (screenHeight) : screenHeight > (787+100) ? 787 : (screenHeight - 787 > 100) ? screenHeight : screenHeight-100 );
-                    let sx = (departurename == "DOMESTIC DEPARTURE" ? 165 : 350)
-                    viewBox = {x: sx, y:0, w:viewBox.w, h: (screenWidth < 500 ? 787 : sh)}
+                    if(svgMapName == 'domesticFoodCourt.svg'){
+                        viewBox = {x: -140, y:-90, w:1296, h:787}
+                    } else if(svgMapName == 'internationalFoodCourt.svg'){
+                        viewBox = {x: 50, y:-0, w:1296, h:787}
+                    } else {
+                        let sx = 0
+                        let sh = (screenHeight + 100 < 787 ? (screenHeight) : screenHeight > (787+100) ? 787 : (screenHeight - 787 > 100) ? screenHeight : screenHeight-100 );
+                        if (mapType == "dom") {
+                            sx = 0
+                        } else {
+                            sx = (departurename == "DOMESTIC DEPARTURE" ? 165 : 350)
+                        }
+                        viewBox = {x: sx, y:0, w:viewBox.w, h: (screenWidth < 500 ? 787 : sh)}
+                    }
                     movedViewBox = viewBox
                     const svgImage = document.getElementsByTagName("svg")[0];
                     svgImage.setAttribute('viewBox', `${viewBox.x} ${viewBox.y} ${viewBox.w} ${viewBox.h}`);
@@ -45,7 +55,9 @@ export default{
             pathinterval = setInterval(() => {
                 if(mapLoaded){
                     const svgImage = document.getElementsByTagName("svg")[0];
-                    svgImage.innerHTML += `<image x="${this.kioskxpos}" y="${this.kioskypos}" width="80" height="80" href="${require('@/assets/locate.png')}" />`
+                    if (this.showKioskPos) {
+                        svgImage.innerHTML += `<image x="${this.kioskxpos}" y="${this.kioskypos}" width="80" height="80" href="${require('@/assets/locate.png')}" />`
+                    }
                     svgImage.innerHTML += `<polyline class="path" points="${this.pathpoints}" style="" />`;
                     setTimeout(() => {
                         document.getElementsByClassName("path")[0].style.display = 'block'
@@ -226,6 +238,17 @@ export default{
                 return [x, y]
             }
             /////// Pinch and Swipe End ////////////////
+        },
+        mapViewBox(viewValues) {
+            const svgImage = document.getElementsByTagName("svg")[0];
+            viewBox = {
+                x: viewValues[0],
+                y: viewValues[1],
+                w: viewValues[2],
+                h: viewValues[3]
+            };
+            movedViewBox = viewBox
+            svgImage.setAttribute('viewBox', `${viewBox.x} ${viewBox.y} ${viewBox.w} ${viewBox.h}`);
         },
     }
 }

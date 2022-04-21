@@ -56,7 +56,7 @@ export default{
                 if(mapLoaded){
                     const svgImage = document.getElementsByTagName("svg")[0];
                     if (this.showKioskPos) {
-                        svgImage.innerHTML += `<image x="${this.kioskxpos}" y="${this.kioskypos}" width="80" height="80" href="${require('@/assets/locate.png')}" />`
+                        svgImage.innerHTML += `<image x="${this.kioskxpos}" y="${this.kioskypos}" width="50" height="50" href="${require('@/assets/locate.png')}" />`
                     }
                     svgImage.innerHTML += `<polyline class="path" points="${this.pathpoints}" style="" />`;
                     setTimeout(() => {

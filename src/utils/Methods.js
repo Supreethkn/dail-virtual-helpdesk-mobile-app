@@ -109,6 +109,37 @@ export default {
         return hotspotPos
     },
 
+    mapWithoutHotspot(kioskId, mapType) {
+        let mapAndKioskData = { kioskxpos: 0, kioskypos: 0, departurename: '', mapname: '', pathpoints: '', displayname: '' }
+        var zones = []
+        if (mapType == "pri") {
+            zones = json.park[0].zone
+        } else {
+            zones.push(json.park[0].zone[0])
+        }
+
+        var checkflag = false
+        for (let k in zones) {
+            let floors = zones[k].building[0].floor
+            for (let i = 0; i < floors.length; i++) {
+                for (let l = 0; l < floors[i].kiosklist.length; l++) {
+                    if (floors[i].kiosklist[l].kioskid == kioskId) {
+                        mapAndKioskData.kioskxpos = floors[i].kiosklist[l].kioskxpos
+                        mapAndKioskData.kioskypos = floors[i].kiosklist[l].kioskypos
+                        mapAndKioskData.departurename = zones[k].zonename
+                        let mapname = (mapType == 'pri' ? floors[i].mapname.pri : floors[i].mapname.dom)
+                        mapAndKioskData.mapname = mapname
+                        checkflag = true
+                        break;
+                    }
+                }
+                if (checkflag) break;
+            }
+            if (checkflag) break;
+        }
+        return mapAndKioskData
+    },
+
     getKioskAndHotspotData(kioskId, hotspotId, mapType) {
         let kioskAndHotspotData = { kioskxpos: 0, kioskypos: 0, hotspotxpos: 0, hotspotypos: 0, departurename: '', mapname: '', pathpoints: '', displayname: '' }
         var zones = []

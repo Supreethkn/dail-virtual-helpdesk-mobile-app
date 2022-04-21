@@ -11,7 +11,7 @@
         </Map>
     </div>
     <div class="col-md-12 mt-4" >
-        <p class="path-direction" v-for="(val, i) in pathDirection" :key="i">{{ val }}</p>
+        <!-- <p class="path-direction" v-for="(val, i) in pathDirection" :key="i">{{ val }}</p> -->
     </div>
 </div>
 </template>
@@ -48,71 +48,62 @@ export default{
             
             let kioskid = parseInt(getUrlParameter('kid'))
             let hotspotid = parseInt(getUrlParameter('hid'))
-            let mapType = getUrlParameter('t')
+            // let mapType = getUrlParameter('t')
             let departureType = getUrlParameter('d')
-            this. mapType = mapType
-
-            // console.log("kioskid=>", kioskid, ' <===> ', "hotspotid=>", hotspotid, "<===>", mapType);
-
-            var kioskfloorno = Methods.getKioskFloorNo(kioskid)
-            var hotspotfloorno = Methods.getHotspotFloorNo(hotspotid)
-            // console.log(kioskfloorno);
-            // console.log(hotspotfloorno);
-
-            // var kioskPos = Methods.getKioskPos(kioskid)
-            // console.log(kioskPos);
-            // this.kioskxpos = (kioskPos.x)
-            // this.kioskypos = (kioskPos.y)
-
-            // var hotspotPos = Methods.getHotspotPos(hotspotid)
-            // console.log(hotspotPos);
-            // this.hotspotxpos = (hotspotPos.x - 30)
-            // this.hotspotypos = (hotspotPos.y - 60)
-
-            
-
-
-            if(kioskfloorno != hotspotfloorno) {
-                let pathValues = Methods.getTransitPathPoints(kioskid, hotspotid,  kioskfloorno, hotspotfloorno, mapType, departureType)
-                console.log(pathValues);
-                var kioskPos = Methods.getKioskPos(kioskid, mapType)
-                // console.log(kioskPos);
-                this.hotspotxpos = (pathValues.map2points.hotspotxpos - 30)
-                this.hotspotypos = (pathValues.map2points.hotspotypos - 60)
-                this.svgMapName = pathValues.map1points.mapname
-                this.pathpoints = pathValues.map1points.path.pathpoints
-                this.departurename = (departureType == "dm" ? 'DOMESTIC DEPARTURE': 'INTERNATIONAL DEPARTURE')
-                this.kioskxpos = kioskPos.x
-                this.kioskypos = kioskPos.y
-                this.hotspotName = pathValues.map2points.hotspotname
-                // this.pathDirection = kioskHotspotData.displayname.description
-                setTimeout(() => {
-                    this.drawLine[0] = true
+            let mapType = (kioskid == 114 ? 'pri' : 'dom')
+            this.mapType = mapType
+            if (hotspotid == 0) {
+                let kioskAndMapData = Methods.mapWithoutHotspot(kioskid, mapType)
+                this.kioskxpos = kioskAndMapData.kioskxpos
+                this.kioskypos = kioskAndMapData.kioskypos
+                this.svgMapName = kioskAndMapData.mapname
+                this.pathpoints = kioskAndMapData.pathpoints
+                this.departurename = kioskAndMapData.departurename
+                this.hotspotName = kioskAndMapData.displayname.name
+                this.pathDirection = kioskAndMapData.displayname.description
+            } else {
+                var kioskfloorno = Methods.getKioskFloorNo(kioskid)
+                var hotspotfloorno = Methods.getHotspotFloorNo(hotspotid)
+               
+                if(kioskfloorno != hotspotfloorno) {
+                    let pathValues = Methods.getTransitPathPoints(kioskid, hotspotid,  kioskfloorno, hotspotfloorno, mapType, departureType)
+                    var kioskPos = Methods.getKioskPos(kioskid, mapType)
+                    this.hotspotxpos = (pathValues.map2points.hotspotxpos - 30)
+                    this.hotspotypos = (pathValues.map2points.hotspotypos - 60)
+                    this.svgMapName = pathValues.map1points.mapname
+                    this.pathpoints = pathValues.map1points.path.pathpoints
+                    this.departurename = (departureType == "dm" ? 'DOMESTIC DEPARTURE': 'INTERNATIONAL DEPARTURE')
+                    this.kioskxpos = kioskPos.x
+                    this.kioskypos = kioskPos.y
+                    this.hotspotName = pathValues.map2points.hotspotname
+                    // this.pathDirection = kioskHotspotData.displayname.description
                     setTimeout(() => {
-                        this.drawLine[1] = true
-                        // this.grayOutSvg(hotspotid, kioskfloorno);
-                        this.svgMapToggle = false
-                        this.showKioskPos = false
-                        this.svgMapName = pathValues.map2points.mapname
-                        this.pathpoints = pathValues.map2points.path.pathpoints
-                        setTimeout(()=>{ this.svgMapToggle = true },200)
-                    }, 3000)
-                }, 500)
-            } else if(kioskfloorno == hotspotfloorno)  {
-                var kioskHotspotData = Methods.getKioskAndHotspotData(kioskid, hotspotid, mapType)
-                console.log(kioskHotspotData);
-                this.kioskxpos = kioskHotspotData.kioskxpos
-                this.kioskypos = kioskHotspotData.kioskypos
-                this.hotspotxpos = (kioskHotspotData.hotspotxpos - 30)
-                this.hotspotypos = (kioskHotspotData.hotspotypos - 60)
-                this.svgMapName = kioskHotspotData.mapname
-                this.pathpoints = kioskHotspotData.pathpoints
-                this.departurename = kioskHotspotData.departurename
-                this.hotspotName = kioskHotspotData.displayname.name
-                this.pathDirection = kioskHotspotData.displayname.description
-            }    
+                        this.drawLine[0] = true
+                        setTimeout(() => {
+                            this.drawLine[1] = true
+                            // this.grayOutSvg(hotspotid, kioskfloorno);
+                            this.svgMapToggle = false
+                            this.showKioskPos = false
+                            this.svgMapName = pathValues.map2points.mapname
+                            this.pathpoints = pathValues.map2points.path.pathpoints
+                            setTimeout(()=>{ this.svgMapToggle = true },200)
+                        }, 3000)
+                    }, 500)
+                } else if(kioskfloorno == hotspotfloorno)  {
+                    var kioskHotspotData = Methods.getKioskAndHotspotData(kioskid, hotspotid, mapType)
+                    this.kioskxpos = kioskHotspotData.kioskxpos
+                    this.kioskypos = kioskHotspotData.kioskypos
+                    this.hotspotxpos = (kioskHotspotData.hotspotxpos - 30)
+                    this.hotspotypos = (kioskHotspotData.hotspotypos - 60)
+                    this.svgMapName = kioskHotspotData.mapname
+                    this.pathpoints = kioskHotspotData.pathpoints
+                    this.departurename = kioskHotspotData.departurename
+                    this.hotspotName = kioskHotspotData.displayname.name
+                    this.pathDirection = kioskHotspotData.displayname.description
+                }
+            }
         } catch (error) {
-            console.log(error);           
+            // console.log(error);
         }
         
         function getUrlParameter(sParam) {

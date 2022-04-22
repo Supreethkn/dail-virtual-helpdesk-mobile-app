@@ -39,30 +39,63 @@ export default {
         return floorNo
     },
 
-    getKioskPos(kioskId, mapType) {
+    getKioskPos(kioskId, zoneName) {
         let kioskPos = { x: 0, y: 0 }
-        var zones = []
-        if (mapType == "pri") {
-            zones = json.park[0].zone
+            ////////////////////
+
+        var floors = []
+        if (zoneName == 'in') {
+            floors = json.park[0].zone[1].building[0].floor
         } else {
-            zones.push(json.park[0].zone[0])
+            let items = json.park[0].zone[0].building[0].floor
+            for (let i in items) {
+                floors.push(items[i]);
+            }
         }
+        // let kioskId = Constants.kioskid
+        // let kioskData = []
+        // var floors = getAllFloorData(json)
         var checkflag = false
-        for (let k in zones) {
-            let floors = zones[k].building[0].floor
-            for (let i = 0; i < floors.length; i++) {
-                for (let j = 0; j < floors[i].kiosklist.length; j++) {
-                    if (floors[i].kiosklist[j].kioskid == kioskId) {
-                        kioskPos.x = floors[i].kiosklist[j].kioskxpos
-                        kioskPos.y = floors[i].kiosklist[j].kioskypos
-                        checkflag = true
-                        break;
-                    }
+        for (let i = 0; i < floors.length; i++) {
+            for (let j = 0; j < floors[i].kiosklist.length; j++) {
+                if (floors[i].kiosklist[j].kioskid == kioskId) {
+                    kioskPos.x = floors[i].kiosklist[j].kioskxpos
+                    kioskPos.y = floors[i].kiosklist[j].kioskypos
+                    checkflag = true
+                    break;
                 }
-                if (checkflag) break;
             }
             if (checkflag) break;
         }
+
+
+
+
+
+
+        /////////////////
+        // var zones = []
+        // if (mapType == "pri") {
+        //     zones = json.park[0].zone
+        // } else {
+        //     zones.push(json.park[0].zone[0])
+        // }
+        // var checkflag = false
+        // for (let k in zones) {
+        //     let floors = zones[k].building[0].floor
+        //     for (let i = 0; i < floors.length; i++) {
+        //         for (let j = 0; j < floors[i].kiosklist.length; j++) {
+        //             if (floors[i].kiosklist[j].kioskid == kioskId) {
+        //                 kioskPos.x = floors[i].kiosklist[j].kioskxpos
+        //                 kioskPos.y = floors[i].kiosklist[j].kioskypos
+        //                 checkflag = true
+        //                 break;
+        //             }
+        //         }
+        //         if (checkflag) break;
+        //     }
+        //     if (checkflag) break;
+        // }
         return kioskPos
     },
 

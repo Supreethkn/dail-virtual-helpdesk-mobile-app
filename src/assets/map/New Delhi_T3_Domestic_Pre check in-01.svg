@@ -45,11 +45,11 @@
 
             .cls-6,
             .cls-7 {
-                fill: #fff200;
+                fill: #fff;
             }
 
             .cls-8 {
-                stroke: #ed1c24;
+                stroke: #231f20;
             }
 
             .cls-9 {
@@ -601,6 +601,19 @@
             @keyframes fadein {
                 from {
                     opacity: 0.5;
+                }
+                to {
+                    opacity: 1;
+                }
+            }
+            .blink2 {
+                -webkit-animation: fadein2 1500ms linear alternate infinite;
+                -moz-animation: fadein2 1500ms linear alternate infinite;
+                animation: fadein2 1500ms linear alternate infinite;
+            }
+            @keyframes fadein2 {
+                from {
+                    opacity: 0;
                 }
                 to {
                     opacity: 1;
@@ -1864,7 +1877,7 @@
                     <line class="cls-105" x1="909.21" y1="450.63" x2="909.21" y2="449.48" />
                     <line class="cls-106" x1="921.02" y1="449.48" x2="907.36" y2="449.48" />
                     <line class="cls-106" x1="921.02" y1="450.63" x2="907.36" y2="450.63" />
-                    <g id="Escalator_D-2" data-name="Escalator D">
+                    <g id="Escalator_D" data-name="Escalator D">
                         <rect class="cls-104" x="916" y="448.38" width="3.64" height="3.64" rx="0.36" />
                         <path class="cls-4"
                             d="M918.24,451.12l.4-.4h-.39l.08-.09a.22.22,0,0,1,.15-.05h.39V451a.22.22,0,0,1,0,.15l-.08.09V451h0v-.14l-.41.4h0l-.09-.1Z" />
@@ -12505,7 +12518,7 @@
                     xlink:href="#Prayer_room-2" />
             </g>
             <g id="First_Aid" data-name="First Aid">
-                <use width="17.51" height="17.51" transform="translate(780.3 439.49) scale(0.19)"
+                <use width="20" height="20" transform="translate(780.3 439.49) scale(0.19)"
                     xlink:href="#Self-Medication-room_2" />
             </g>
             <g id="Ramp">
@@ -13216,7 +13229,7 @@
                     <line class="cls-102" x1="1097.35" y1="566.86" x2="1097.35" y2="568.1" />
                     <line class="cls-103" x1="1110.7" y1="568.1" x2="1095.88" y2="568.1" />
                     <line class="cls-103" x1="1110.7" y1="566.86" x2="1095.88" y2="566.86" />
-                    <g id="Escalator_D-3" data-name="Escalator D">
+                    <g id="Escalator_D" data-name="Escalator D">
                         <rect class="cls-104" x="1095.89" y="565.66" width="3.64" height="3.64" rx="0.36" />
                         <path class="cls-4"
                             d="M1098.12,568.4l.4-.4h-.39l.09-.09a.22.22,0,0,1,.15,0h.39v.39a.22.22,0,0,1,0,.15l-.09.09v-.25h0v-.14l-.4.4h0l-.1-.1Z" />
@@ -13254,7 +13267,7 @@
                     <line class="cls-102" x1="870.02" y1="566.86" x2="870.02" y2="568.1" />
                     <line class="cls-103" x1="856.67" y1="568.1" x2="871.49" y2="568.1" />
                     <line class="cls-103" x1="856.67" y1="566.86" x2="871.49" y2="566.86" />
-                    <g id="Escalator_D-4" data-name="Escalator D">
+                    <g id="Escalator_D" data-name="Escalator D">
                         <rect class="cls-104" x="867.84" y="565.66" width="3.64" height="3.64" rx="0.36" />
                     </g>
                     <path class="cls-4"

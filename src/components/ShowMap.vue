@@ -63,11 +63,11 @@ export default{
                 this.pathDirection = kioskAndMapData.displayname.description
             } else {
                 var kioskfloorno = Methods.getKioskFloorNo(kioskid)
-                var hotspotfloorno = Methods.getHotspotFloorNo(hotspotid)
-               
+                var hotspotfloorno = Methods.getHotspotFloorNo(hotspotid)               
+
                 if(kioskfloorno != hotspotfloorno) {
                     let pathValues = Methods.getTransitPathPoints(kioskid, hotspotid,  kioskfloorno, hotspotfloorno, mapType, departureType)
-                    var kioskPos = Methods.getKioskPos(kioskid, mapType)
+                    var kioskPos = Methods.getKioskPos(kioskid, departureType)
                     this.hotspotxpos = (pathValues.map2points.hotspotxpos - 30)
                     this.hotspotypos = (pathValues.map2points.hotspotypos - 60)
                     this.svgMapName = pathValues.map1points.mapname
@@ -76,6 +76,7 @@ export default{
                     this.kioskxpos = kioskPos.x
                     this.kioskypos = kioskPos.y
                     this.hotspotName = pathValues.map2points.hotspotname
+                    
                     // this.pathDirection = kioskHotspotData.displayname.description
                     setTimeout(() => {
                         this.drawLine[0] = true

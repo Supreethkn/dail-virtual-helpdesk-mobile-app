@@ -13,7 +13,7 @@ var svgSize = {
     h:900
 };
 export default{
-    props: ["mapName","svgid","zoneName", "kioskxpos", "kioskypos", "hotspotPos", 'pathpoints', "departurename", "showKioskPos", "mapType"],  
+    props: ["mapName","svgid", "kioskxpos", "kioskypos", 'pathpoints', "departurename", "showKioskPos", "mapType", 'floorNo'],  
     mounted(){
         let departurename = this.departurename
         var svgMapName = this.mapName;
@@ -56,9 +56,12 @@ export default{
                 if(mapLoaded){
                     const svgImage = document.getElementsByTagName("svg")[0];
                     if (this.showKioskPos) {
-                        svgImage.innerHTML += `<image x="${this.kioskxpos}" y="${this.kioskypos}" width="50" height="50" href="${require('@/assets/locate.png')}" />`
+                        svgImage.innerHTML += `<image id="kiosk-img" class="blink2" x="${this.kioskxpos}" y="${this.kioskypos}" width="50" height="50" href="${require('@/assets/locate.png')}" />`
+                        svgImage.innerHTML += `<polyline class="path" points="${this.pathpoints}" /> <use xlink:href="#kiosk-img"/>`;
+                    } else {
+                        svgImage.innerHTML += `<polyline class="path path-first-floor" points="${this.pathpoints}"/>`;
                     }
-                    svgImage.innerHTML += `<polyline class="path" points="${this.pathpoints}" style="" />`;
+                   
                     setTimeout(() => {
                         document.getElementsByClassName("path")[0].style.display = 'block'
                     }, 500)
@@ -72,24 +75,20 @@ export default{
     methods: {
         zoomPan(){
             const svgImage = document.getElementsByTagName("svg")[0];
-            const svgContainer = document.getElementById("svgContainer");
 
             /////// Pinch and Swipe start ////////////////
             function myPointerDown(evt) {
                 myPointers.push(evt);
-                // console.log(myPointers.length);
                 if (myPointers.length == 1) {
-                isSinglePointer = true
-                movedViewBox = viewBox
+                    isSinglePointer = true
+                    movedViewBox = viewBox
                 } else if (myPointers.length > 1){
-                isSinglePointer = false
+                    isSinglePointer = false
                 }
                 this.setPointerCapture(evt.pointerId);
             }
 
-            //remove touch point from array when touch is released
             function myPointerUp(evt) {
-            // Remove pointer from array
                 for (var i = 0; i < myPointers.length; i++) {
                     if (myPointers[i].pointerId == evt.pointerId) {
                         myPointers.splice(i, 1);
@@ -105,9 +104,7 @@ export default{
                 }
             }
 
-            //check for a pinch using only the first two touchpoints
             function myPointerMove(evt) {
-                // Update pointer position.
                 for (var i = 0; i < myPointers.length; i++) {
                     if (evt.pointerId == myPointers[i].pointerId) {
                         myPointers[i] = evt;
@@ -116,10 +113,9 @@ export default{
                 }
 
                 if (myPointers.length >= 2) {
-                    // Detect pinch gesture.
                     var w = viewBox.w;
                     var h = viewBox.h;
-                    var mx = myPointers[0].clientX; //mouse x  
+                    var mx = myPointers[0].clientX; 
                     var my = myPointers[0].clientY;
 
                     var curDif = Math.abs(myPointers[0].clientX - myPointers[1].clientX);
@@ -143,29 +139,18 @@ export default{
                             }
                         }
                         if (curDif < lastDif) {
-                            // console.log("Zoom out");
                             var dw = w * Math.sign(-100) * 0.05;
                             var dh = h * Math.sign(-100) * 0.05;
                             var dx = dw * mx / svgSize.w;
                             var dy = dh * my / svgSize.h;
-                            // if (svgSize.w < viewBox.w) {
-                            //     viewBox = {
-                            //         x: 0,
-                            //         y: 0,
-                            //         w: svgSize.w,
-                            //         h: svgSize.h
-                            //     };            
-                            // } else {
-                                viewBox = {
-                                    x: viewBox.x + dx,
-                                    y: viewBox.y + dy,
-                                    w: viewBox.w - dw,
-                                    h: viewBox.h - dh
-                                };
-                            // }
+                            viewBox = {
+                                x: viewBox.x + dx,
+                                y: viewBox.y + dy,
+                                w: viewBox.w - dw,
+                                h: viewBox.h - dh
+                            };
                         }
                         movedViewBox = viewBox
-                        // console.log(viewBox);
                     }
                 }
                 svgImage.setAttribute('viewBox', `${viewBox.x} ${viewBox.y} ${viewBox.w} ${viewBox.h}`);
@@ -204,8 +189,8 @@ export default{
                     movedViewBox = {
                         // x: (xyPos[0] < viewBox.x ? xyPos[0] : x),
                         // y: (xyPos[1] < viewBox.y ? xyPos[1] : y),
-                        x: x,
-                        y: y,
+                        x: viewBox.x + dx,
+                        y: viewBox.y + dy,
                         w: viewBox.w, 
                         h: viewBox.h
                     };
@@ -278,8 +263,15 @@ export default{
     animation-iteration-count: 1;
     fill:none;
     stroke:red;
-    stroke-width: 1.5;
+    stroke-width: 1.2;
     display: none;
+    filter: drop-shadow(0 0 .8px #e60000);
+    stroke-linejoin: round;
+}
+
+.path-first-floor {
+    stroke-width: 3;
+    filter: drop-shadow(0 0 1.5px #e60000);
 }
 
 @keyframes dash {

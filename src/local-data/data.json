@@ -157,7 +157,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "TextLogoBg.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "Cafecino",
+                                    "hotspotdescription": "CAFECINO",
                                     "path": [{
                                         "pathpoints": "978,573 967,573 967,560 880,560, 880,576",
                                         "kioskid": 114
@@ -165,9 +165,9 @@
                                     "hotspotstatus": "yes",
                                     "transithotspot": "no",
                                     "hotspotid": 501,
-                                    "hotspotdisplayname": { "name": "Cafecino", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
+                                    "hotspotdisplayname": { "name": "CAFECINO", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
                                     "categoryid": 120,
-                                    "hotspotname": "Cafecino"
+                                    "hotspotname": "CAFECINO"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -178,7 +178,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "TextLogoBg.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "MasalaTwist",
+                                    "hotspotdescription": "MASALA TWIST",
                                     "path": [{
                                         "pathpoints": "978,573 949,573 949,576",
                                         "kioskid": 114
@@ -186,9 +186,9 @@
                                     "hotspotstatus": "yes",
                                     "transithotspot": "no",
                                     "hotspotid": 125,
-                                    "hotspotdisplayname": { "name": "Masala Twist", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
+                                    "hotspotdisplayname": { "name": "MASALA TWIST", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
                                     "categoryid": 120,
-                                    "hotspotname": "MasalaTwist"
+                                    "hotspotname": "MASALA TWIST"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -199,7 +199,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "TextLogoBg.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "CkrushJuiceBar",
+                                    "hotspotdescription": "CKRUSH JUICE BAR",
                                     "path": [{
                                         "pathpoints": "978,573 1019,573 1019,575",
                                         "kioskid": 114
@@ -207,9 +207,9 @@
                                     "hotspotstatus": "yes",
                                     "transithotspot": "no",
                                     "hotspotid": 126,
-                                    "hotspotdisplayname": { "name": "Ckrush Juice Bar", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
+                                    "hotspotdisplayname": { "name": "CKRUSH JUICE BAR", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
                                     "categoryid": 120,
-                                    "hotspotname": "CkrushJuiceBar"
+                                    "hotspotname": "CKRUSH JUICE BAR"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -220,7 +220,7 @@
                                     "svggroupid": "Krispy_Kreme",
                                     "hotspoticon": "TextLogoBg.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "KrispyKreme",
+                                    "hotspotdescription": "KRISPY KREME",
                                     "path": [{
                                             "pathpoints": "978,573 1089,573",
                                             "kioskid": 114
@@ -233,9 +233,9 @@
                                     "hotspotstatus": "yes",
                                     "transithotspot": "no",
                                     "hotspotid": 127,
-                                    "hotspotdisplayname": { "name": "Krispy Kreme", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
+                                    "hotspotdisplayname": { "name": "KRISPY KREME", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
                                     "categoryid": 120,
-                                    "hotspotname": "KrispyKreme"
+                                    "hotspotname": "KRISPY KREME"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -246,7 +246,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "Costa.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "Costa",
+                                    "hotspotdescription": "COSTA COFFEE",
                                     "path": [{
                                             "pathpoints": "978,573 1009,573 1009,560, 1100,560, 1100,523, 1114,523",
                                             "kioskid": 114
@@ -259,9 +259,9 @@
                                     "hotspotstatus": "yes",
                                     "transithotspot": "no",
                                     "hotspotid": 129,
-                                    "hotspotdisplayname": { "name": "Costa", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
+                                    "hotspotdisplayname": { "name": "COSTA COFFEE", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
                                     "categoryid": 120,
-                                    "hotspotname": "Costa"
+                                    "hotspotname": "COSTA COFFEE"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -272,7 +272,7 @@
                                     "svggroupid": "Chokola",
                                     "hotspoticon": "TextLogoBg.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "Chokola",
+                                    "hotspotdescription": "CHOKOLA",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435, 942,409, 901,409, 901,407",
                                             "kioskid": 114
@@ -285,9 +285,9 @@
                                     "hotspotstatus": "yes",
                                     "transithotspot": "no",
                                     "hotspotid": 130,
-                                    "hotspotdisplayname": { "name": "Chokola", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
+                                    "hotspotdisplayname": { "name": "CHOKOLA", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
                                     "categoryid": 120,
-                                    "hotspotname": "Chokola"
+                                    "hotspotname": "CHOKOLA"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -298,7 +298,7 @@
                                     "svggroupid": "Haldirams",
                                     "hotspoticon": "Haldiram.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "Haldiram",
+                                    "hotspotdescription": "HALDIRAM",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435, 942,409, 895,409, 895,407",
                                             "kioskid": 114
@@ -311,9 +311,9 @@
                                     "hotspotstatus": "yes",
                                     "transithotspot": "no",
                                     "hotspotid": 131,
-                                    "hotspotdisplayname": { "name": "Haldiram", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
+                                    "hotspotdisplayname": { "name": "HALDIRAM", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
                                     "categoryid": 120,
-                                    "hotspotname": "Haldiram"
+                                    "hotspotname": "HALDIRAM"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -324,7 +324,7 @@
                                     "svggroupid": "Cafe_Coffee_Day_Square",
                                     "hotspoticon": "TextLogoBg.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "CafeCoffeeDay",
+                                    "hotspotdescription": "CAFE COFFEE DAY",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 942,402 935,395 927,392 906,392 901,389 894,377 894,375, 899,375",
                                             "kioskid": 114
@@ -337,9 +337,9 @@
                                     "hotspotstatus": "yes",
                                     "transithotspot": "no",
                                     "hotspotid": 132,
-                                    "hotspotdisplayname": { "name": "Cafe Coffee Day", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
+                                    "hotspotdisplayname": { "name": "CAFE COFFEE DAY", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
                                     "categoryid": 120,
-                                    "hotspotname": "CafeCoffeeDay"
+                                    "hotspotname": "CAFE COFFEE DAY"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -350,7 +350,7 @@
                                     "svggroupid": "Dilli_Streat",
                                     "hotspoticon": "Dilli Strat.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "Dilli Streat",
+                                    "hotspotdescription": "DILLI STREAT",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435, 942,415, 942,402, 935,395, 927,392, 865,392, 865,400, 855,400",
                                             "kioskid": 114
@@ -363,9 +363,9 @@
                                     "hotspotstatus": "yes",
                                     "transithotspot": "no",
                                     "hotspotid": 134,
-                                    "hotspotdisplayname": { "name": "Dilli Streat", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
+                                    "hotspotdisplayname": { "name": "DILLI STREAT", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
                                     "categoryid": 120,
-                                    "hotspotname": "Dilli Streat"
+                                    "hotspotname": "DILLI STREAT"
                                 },
 
 
@@ -509,7 +509,7 @@
                                     "svggroupid": "Fabindia",
                                     "hotspoticon": "Fab India.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "fabindia",
+                                    "hotspotdescription": "FAB INDIA",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435, 942,415, 942,402, 935,395, 927,392, 855,392",
                                             "kioskid": 114
@@ -524,7 +524,7 @@
                                     "hotspotid": 142,
                                     "hotspotdisplayname": { "name": "FAB INDIA", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
                                     "categoryid": 110,
-                                    "hotspotname": "Fab India"
+                                    "hotspotname": "FAB INDIA"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -535,7 +535,7 @@
                                     "svggroupid": "Guardian_Pharmacy",
                                     "hotspoticon": "Guardian Pharmacy.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "Guardian Pharmacy",
+                                    "hotspotdescription": "GUARDIAN PHARMACY",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435, 942,415, 942,402, 935,395, 927,392, 868,392, 868,386",
                                             "kioskid": 114
@@ -550,7 +550,7 @@
                                     "hotspotid": 143,
                                     "hotspotdisplayname": { "name": "GUARDIAN PHARMACY", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
                                     "categoryid": 110,
-                                    "hotspotname": "Guardian Pharmacy"
+                                    "hotspotname": "GUARDIAN PHARMACY"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -561,7 +561,7 @@
                                     "svggroupid": "Hamleys",
                                     "hotspoticon": "Hamleys.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "Hamleys",
+                                    "hotspotdescription": "HAMELYS",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435, 942,415, 942,413, 948,413",
                                             "kioskid": 114
@@ -576,7 +576,7 @@
                                     "hotspotid": 144,
                                     "hotspotdisplayname": { "name": "HAMLEYS", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
                                     "categoryid": 110,
-                                    "hotspotname": "Hamleys"
+                                    "hotspotname": "HAMELYS"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -587,7 +587,7 @@
                                     "svggroupid": "Marks_Spencers",
                                     "hotspoticon": "Mark & Spencers.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "Mark & Spencers",
+                                    "hotspotdescription": "MARK & SPENCERS",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435, 942,400, 947,400",
                                             "kioskid": 114
@@ -602,7 +602,7 @@
                                     "hotspotid": 145,
                                     "hotspotdisplayname": { "name": "MARK & SPENCERS", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
                                     "categoryid": 110,
-                                    "hotspotname": "Mark & Spencers"
+                                    "hotspotname": "MARK & SPENCERS"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -613,7 +613,7 @@
                                     "svggroupid": "Tanishq",
                                     "hotspoticon": "Tanishq.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "Tanishq",
+                                    "hotspotdescription": "TANISHQ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435, 942,427, 936,427",
                                             "kioskid": 114
@@ -628,7 +628,7 @@
                                     "hotspotid": 146,
                                     "hotspotdisplayname": { "name": "TANISHQ", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
                                     "categoryid": 110,
-                                    "hotspotname": "Tanishq"
+                                    "hotspotname": "TANISHQ"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -639,7 +639,7 @@
                                     "svggroupid": "United_Colours_of_Benetton",
                                     "hotspoticon": "United Colors Of Beneton.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "UnitedColorsOfBeneton",
+                                    "hotspotdescription": "UNITED COLORS OF BENETON",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435, 942,415, 942,402, 935,395, 927,392, 913,392, 913,388",
                                             "kioskid": 114
@@ -654,7 +654,7 @@
                                     "hotspotid": 147,
                                     "hotspotdisplayname": { "name": "UNITED COLORS OF BENETON", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
                                     "categoryid": 110,
-                                    "hotspotname": "United Colors Of Beneton"
+                                    "hotspotname": "UNITED COLORS OF BENETON"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -665,7 +665,7 @@
                                     "svggroupid": "WHSmith",
                                     "hotspoticon": "WH Smith.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "WH Smith",
+                                    "hotspotdescription": "WH SMITH",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 859,422, 857,420 ",
                                             "kioskid": 114
@@ -680,7 +680,7 @@
                                     "hotspotid": 148,
                                     "hotspotdisplayname": { "name": "WH SMITH", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
                                     "categoryid": 110,
-                                    "hotspotname": "WH Smith"
+                                    "hotspotname": "WH SMITH"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -691,7 +691,7 @@
                                     "svggroupid": "Helios",
                                     "hotspoticon": "TextLogoBg.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "Helios",
+                                    "hotspotdescription": "HELIOS",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435, 942,433, 936,433",
                                             "kioskid": 114
@@ -706,7 +706,7 @@
                                     "hotspotid": 149,
                                     "hotspotdisplayname": { "name": "HELIOS", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
                                     "categoryid": 110,
-                                    "hotspotname": "Helios"
+                                    "hotspotname": "HELIOS"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -717,7 +717,7 @@
                                     "svggroupid": "Rado",
                                     "hotspoticon": "TextLogoBg.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "Rado",
+                                    "hotspotdescription": "RADO",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 931,486 931,441",
                                             "kioskid": 114
@@ -732,7 +732,7 @@
                                     "hotspotid": 150,
                                     "hotspotdisplayname": { "name": "RADO", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
                                     "categoryid": 110,
-                                    "hotspotname": "Rado"
+                                    "hotspotname": "RADO"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -743,7 +743,7 @@
                                     "svggroupid": "Tumi",
                                     "hotspoticon": "TextLogoBg.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "Tumi",
+                                    "hotspotdescription": "TUMI",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435, 946,435",
                                             "kioskid": 114
@@ -758,7 +758,7 @@
                                     "hotspotid": 151,
                                     "hotspotdisplayname": { "name": "TUMI", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
                                     "categoryid": 110,
-                                    "hotspotname": "Tumi"
+                                    "hotspotname": "TUMI"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -769,7 +769,7 @@
                                     "svggroupid": "Brooks_brothers",
                                     "hotspoticon": "TextLogoBg.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "BrooksBrothers",
+                                    "hotspotdescription": "BROOKS BROTHERS",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435, 942,431, 948,431",
                                             "kioskid": 114
@@ -784,7 +784,7 @@
                                     "hotspotid": 152,
                                     "hotspotdisplayname": { "name": "BROOKS BROTHERS", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
                                     "categoryid": 110,
-                                    "hotspotname": "BrooksBrothers"
+                                    "hotspotname": "BROOKS BROTHERS"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -795,7 +795,7 @@
                                     "svggroupid": "Porsche_Design",
                                     "hotspoticon": "TextLogoBg.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "PorscheDesign",
+                                    "hotspotdescription": "PORSCHE DESIGN",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435, 942,426, 948,426",
                                             "kioskid": 114
@@ -810,7 +810,7 @@
                                     "hotspotid": 153,
                                     "hotspotdisplayname": { "name": "PORSCHE DESIGN", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
                                     "categoryid": 110,
-                                    "hotspotname": "PorscheDesign"
+                                    "hotspotname": "PORSCHE DESIGN"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -821,7 +821,7 @@
                                     "svggroupid": "sunglass_hut",
                                     "hotspoticon": "TextLogoBg.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "SunglassHut",
+                                    "hotspotdescription": "SUNGLASS HUT",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435, 942,423, 948,423",
                                             "kioskid": 114
@@ -836,7 +836,7 @@
                                     "hotspotid": 154,
                                     "hotspotdisplayname": { "name": "SUNGLASS HUT", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
                                     "categoryid": 110,
-                                    "hotspotname": "SunglassHut"
+                                    "hotspotname": "SUNGLASS HUT"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -847,7 +847,7 @@
                                     "svggroupid": "Mont_Blanc",
                                     "hotspoticon": "TextLogoBg.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "MontBlanc",
+                                    "hotspotdescription": "MONT BLANC",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435, 942,419, 948,419",
                                             "kioskid": 114
@@ -862,7 +862,7 @@
                                     "hotspotid": 155,
                                     "hotspotdisplayname": { "name": "MONT BLANC", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
                                     "categoryid": 110,
-                                    "hotspotname": "MontBlanc"
+                                    "hotspotname": "MONT BLANC"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -899,7 +899,7 @@
                                     "svggroupid": "swarovski",
                                     "hotspoticon": "TextLogoBg.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "Swarovski",
+                                    "hotspotdescription": "SWAROVSKI",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435, 942,422, 936,422",
                                             "kioskid": 114
@@ -914,7 +914,7 @@
                                     "hotspotid": 158,
                                     "hotspotdisplayname": { "name": "SWAROVSKI", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
                                     "categoryid": 110,
-                                    "hotspotname": "Swarovski"
+                                    "hotspotname": "SWAROVSKI"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -925,7 +925,7 @@
                                     "svggroupid": "Go_Colors",
                                     "hotspoticon": "TextLogoBg.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "GoColors",
+                                    "hotspotdescription": "GO COLORS",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 923,415, 923,419 ",
                                             "kioskid": 114
@@ -940,7 +940,7 @@
                                     "hotspotid": 159,
                                     "hotspotdisplayname": { "name": "GO COLORS", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
                                     "categoryid": 110,
-                                    "hotspotname": "GoColors"
+                                    "hotspotname": "GO COLORS"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -951,7 +951,7 @@
                                     "svggroupid": "Amrapali",
                                     "hotspoticon": "TextLogoBg.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "Amrapali",
+                                    "hotspotdescription": "AMRAPALI",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 917,422 ",
                                             "kioskid": 114
@@ -966,7 +966,7 @@
                                     "hotspotid": 161,
                                     "hotspotdisplayname": { "name": "AMRAPALI", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
                                     "categoryid": 110,
-                                    "hotspotname": "Amrapali"
+                                    "hotspotname": "AMRAPALI"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -977,7 +977,7 @@
                                     "svggroupid": "The_Olfactive",
                                     "hotspoticon": "TextLogoBg.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "TheOlfactive",
+                                    "hotspotdescription": "THE OLFACTIVE",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 913,418, 913,422",
                                             "kioskid": 114
@@ -990,9 +990,9 @@
                                     "hotspotstatus": "yes",
                                     "transithotspot": "no",
                                     "hotspotid": 163,
-                                    "hotspotdisplayname": { "name": "The Olfactive", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
+                                    "hotspotdisplayname": { "name": "THE OLFACTIVE", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
                                     "categoryid": 110,
-                                    "hotspotname": "TheOlfactive"
+                                    "hotspotname": "THE OLFACTIVE"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -1003,7 +1003,7 @@
                                     "svggroupid": "Forest_Essentials",
                                     "hotspoticon": "TextLogoBg.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "ForrestEssentials",
+                                    "hotspotdescription": "FORREST ESSENTIALS",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 909,418, 909,422",
                                             "kioskid": 114
@@ -1018,7 +1018,7 @@
                                     "hotspotid": 164,
                                     "hotspotdisplayname": { "name": "FORREST ESSENTIALS", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
                                     "categoryid": 110,
-                                    "hotspotname": "ForrestEssentials"
+                                    "hotspotname": "FORREST ESSENTIALS"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -1029,7 +1029,7 @@
                                     "svggroupid": "The_Body_shop",
                                     "hotspoticon": "TextLogoBg.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "TheBodyShop",
+                                    "hotspotdescription": "THE BODYSHOP",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 906,418, 906,422",
                                             "kioskid": 114
@@ -1044,7 +1044,7 @@
                                     "hotspotid": 109,
                                     "hotspotdisplayname": { "name": "THE BODYSHOP", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
                                     "categoryid": 110,
-                                    "hotspotname": "TheBodyShop"
+                                    "hotspotname": "THE BODYSHOP"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -1081,7 +1081,7 @@
                                     "svggroupid": "Safari",
                                     "hotspoticon": "TextLogoBg.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "Safari",
+                                    "hotspotdescription": "SAFARI",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 895,418, 895,422",
                                             "kioskid": 114
@@ -1096,7 +1096,7 @@
                                     "hotspotid": 810,
                                     "hotspotdisplayname": { "name": "SAFARI", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
                                     "categoryid": 110,
-                                    "hotspotname": "Safari"
+                                    "hotspotname": "SAFARI"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -1107,7 +1107,7 @@
                                     "svggroupid": "Da_Milano",
                                     "hotspoticon": "TextLogoBg.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "DaMilano",
+                                    "hotspotdescription": "DA MILANO",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435, 942,415, 937,411, 930,411, 917,418, 892,418, 892,422",
                                             "kioskid": 114
@@ -1122,7 +1122,7 @@
                                     "hotspotid": 811,
                                     "hotspotdisplayname": { "name": "DA MILANO", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
                                     "categoryid": 110,
-                                    "hotspotname": "DaMilano"
+                                    "hotspotname": "DA MILANO"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -1133,7 +1133,7 @@
                                     "svggroupid": "Hush_Puppies",
                                     "hotspoticon": "TextLogoBg.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "HushPuppies",
+                                    "hotspotdescription": "HUSH PUPPIES",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418, 887,418, 887,421",
                                             "kioskid": 114
@@ -1148,7 +1148,7 @@
                                     "hotspotid": 812,
                                     "hotspotdisplayname": { "name": "HUSH PUPPIES", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
                                     "categoryid": 110,
-                                    "hotspotname": "HushPuppies"
+                                    "hotspotname": "HUSH PUPPIES"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -1159,7 +1159,7 @@
                                     "svggroupid": "Puma",
                                     "hotspoticon": "TextLogoBg.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "Puma",
+                                    "hotspotdescription": "PUMA",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 882,418, 882,420",
                                             "kioskid": 114
@@ -1174,7 +1174,7 @@
                                     "hotspotid": 813,
                                     "hotspotdisplayname": { "name": "PUMA", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
                                     "categoryid": 110,
-                                    "hotspotname": "Puma"
+                                    "hotspotname": "PUMA"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -1185,7 +1185,7 @@
                                     "svggroupid": "Accessorize",
                                     "hotspoticon": "TextLogoBg.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "Accessorize",
+                                    "hotspotdescription": "ACCESSORIZE",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 877,413, 875, 417",
                                             "kioskid": 114
@@ -1200,7 +1200,7 @@
                                     "hotspotid": 814,
                                     "hotspotdisplayname": { "name": "ACCESSORIZE", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
                                     "categoryid": 110,
-                                    "hotspotname": "Accessorize"
+                                    "hotspotname": "ACCESSORIZE"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -1211,7 +1211,7 @@
                                     "svggroupid": "The_Cellar",
                                     "hotspoticon": "TextLogoBg.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "TheCellar",
+                                    "hotspotdescription": "THE CELLAR",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 859,422, 861,424",
                                             "kioskid": 114
@@ -1226,7 +1226,7 @@
                                     "hotspotid": 815,
                                     "hotspotdisplayname": { "name": "THE CELLAR", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
                                     "categoryid": 110,
-                                    "hotspotname": "TheCellar"
+                                    "hotspotname": "THE CELLAR"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -1237,7 +1237,7 @@
                                     "svggroupid": "Croma",
                                     "hotspoticon": "TextLogoBg.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "Croma",
+                                    "hotspotdescription": "CROMA",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435, 942,415, 942,402, 935,395, 927,392, 861,392, 861,386",
                                             "kioskid": 114
@@ -1252,7 +1252,7 @@
                                     "hotspotid": 816,
                                     "hotspotdisplayname": { "name": "CROMA", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
                                     "categoryid": 110,
-                                    "hotspotname": "Croma"
+                                    "hotspotname": "CROMA"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -1263,7 +1263,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "TextLogoBg.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "Hidesign",
+                                    "hotspotdescription": "HIDEDESIGN",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435, 942,405, 919,405",
                                             "kioskid": 114
@@ -1278,7 +1278,7 @@
                                     "hotspotid": 817,
                                     "hotspotdisplayname": { "name": "HIDEDESIGN", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
                                     "categoryid": 110,
-                                    "hotspotname": "Hidesign"
+                                    "hotspotname": "HIDEDESIGN"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -1289,7 +1289,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "TextLogoBg.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "Bikanerwala",
+                                    "hotspotdescription": "BIKANERWALA",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435, 942,415, 942,402, 935,395, 927,392, 895,392, 895,395",
                                             "kioskid": 114
@@ -1304,7 +1304,7 @@
                                     "hotspotid": 818,
                                     "hotspotdisplayname": { "name": "BIKANERWALA", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
                                     "categoryid": 110,
-                                    "hotspotname": "Bikanerwala"
+                                    "hotspotname": "BIKANERWALA"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -1315,7 +1315,7 @@
                                     "svggroupid": "Samsung",
                                     "hotspoticon": "TextLogoBg.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "Samsung",
+                                    "hotspotdescription": "SAMSUNG",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435, 942,415, 942,402, 935,395, 927,392, 907,392, 907,387",
                                             "kioskid": 114
@@ -1330,7 +1330,7 @@
                                     "hotspotid": 819,
                                     "hotspotdisplayname": { "name": "SAMSUNG", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
                                     "categoryid": 110,
-                                    "hotspotname": "Samsung"
+                                    "hotspotname": "SAMSUNG"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -1341,7 +1341,7 @@
                                     "svggroupid": "Tommy_Hilfiger",
                                     "hotspoticon": "TextLogoBg.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "TommyHilfiger",
+                                    "hotspotdescription": "TOMMY HILFIGER",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435, 942,415, 942,402, 935,395, 927,392, 919,392 919,388",
                                             "kioskid": 114
@@ -1356,7 +1356,7 @@
                                     "hotspotid": 820,
                                     "hotspotdisplayname": { "name": "TOMMY HILFIGER", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
                                     "categoryid": 110,
-                                    "hotspotname": "TommyHilfiger"
+                                    "hotspotname": "TOMMY HILFIGER"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -1367,7 +1367,7 @@
                                     "svggroupid": "Lacoste",
                                     "hotspoticon": "TextLogoBg.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "Lacoste",
+                                    "hotspotdescription": "LACOSTE",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435, 942,415, 942,402, 935,395, 927,392, 927,387",
                                             "kioskid": 114
@@ -1382,7 +1382,7 @@
                                     "hotspotid": 821,
                                     "hotspotdisplayname": { "name": "LACOSTE", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
                                     "categoryid": 110,
-                                    "hotspotname": "Lacoste"
+                                    "hotspotname": "LACOSTE"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -1393,7 +1393,7 @@
                                     "svggroupid": "Birkenstock",
                                     "hotspoticon": "TextLogoBg.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "Birkenstock",
+                                    "hotspotdescription": "BIRKENSTOCK",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  804,426, 804,413, 821,413",
                                             "kioskid": 114
@@ -1408,7 +1408,7 @@
                                     "hotspotid": 822,
                                     "hotspotdisplayname": { "name": "BIRKENSTOCK", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
                                     "categoryid": 110,
-                                    "hotspotname": "Birkenstock"
+                                    "hotspotname": "BIRKENSTOCK"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -1419,7 +1419,7 @@
                                     "svggroupid": "O2_Spa",
                                     "hotspoticon": "TextLogoBg.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "O2Spa",
+                                    "hotspotdescription": "O2 SPA",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  804,426, 804,409, 823,409",
                                             "kioskid": 114
@@ -1434,7 +1434,7 @@
                                     "hotspotid": 823,
                                     "hotspotdisplayname": { "name": "O2 SPA", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
                                     "categoryid": 110,
-                                    "hotspotname": "O2Spa"
+                                    "hotspotname": "O2 SPA"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -1445,7 +1445,7 @@
                                     "svggroupid": "Nykaa.com",
                                     "hotspoticon": "TextLogoBg.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "Nykaa.com",
+                                    "hotspotdescription": "NYKAA.COM",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  804,426, 804,418, 790,418",
                                             "kioskid": 114
@@ -1460,7 +1460,7 @@
                                     "hotspotid": 824,
                                     "hotspotdisplayname": { "name": "NYKAA.COM", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
                                     "categoryid": 110,
-                                    "hotspotname": "Nykaa.com"
+                                    "hotspotname": "NYKAA.COM"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -1471,7 +1471,7 @@
                                     "svggroupid": "Biba",
                                     "hotspoticon": "TextLogoBg.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "Biba",
+                                    "hotspotdescription": "BIBA",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  804,426, 804,422, 790,422",
                                             "kioskid": 114
@@ -1486,7 +1486,7 @@
                                     "hotspotid": 825,
                                     "hotspotdisplayname": { "name": "BIBA", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
                                     "categoryid": 110,
-                                    "hotspotname": "Biba"
+                                    "hotspotname": "BIBA"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -1497,7 +1497,7 @@
                                     "svggroupid": "Covo",
                                     "hotspoticon": "TextLogoBg.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "Covo",
+                                    "hotspotdescription": "COVO",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  804,426, 804,454, 806,454",
                                             "kioskid": 114
@@ -1512,7 +1512,7 @@
                                     "hotspotid": 826,
                                     "hotspotdisplayname": { "name": "COVO", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
                                     "categoryid": 110,
-                                    "hotspotname": "Covo"
+                                    "hotspotname": "COVO"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -1523,7 +1523,7 @@
                                     "svggroupid": "Relay",
                                     "hotspoticon": "TextLogoBg.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "Relay",
+                                    "hotspotdescription": "RELAY",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  804,426, 804,450, 786,468",
                                             "kioskid": 114
@@ -1538,7 +1538,7 @@
                                     "hotspotid": 827,
                                     "hotspotdisplayname": { "name": "RELAY", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
                                     "categoryid": 110,
-                                    "hotspotname": "Relay"
+                                    "hotspotname": "RELAY"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -1549,7 +1549,7 @@
                                     "svggroupid": "Lakme",
                                     "hotspoticon": "TextLogoBg.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "Lakme",
+                                    "hotspotdescription": "LAKME",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  804,426, 804,474, 744,534, 741,531",
                                             "kioskid": 114
@@ -1564,7 +1564,7 @@
                                     "hotspotid": 828,
                                     "hotspotdisplayname": { "name": "LAKME", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
                                     "categoryid": 110,
-                                    "hotspotname": "Lakme"
+                                    "hotspotname": "LAKME"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -1575,7 +1575,7 @@
                                     "svggroupid": "Holii",
                                     "hotspoticon": "TextLogoBg.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "Holii",
+                                    "hotspotdescription": "HOLII",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  804,426, 804,474, 741,537, 738,534",
                                             "kioskid": 114
@@ -1590,7 +1590,7 @@
                                     "hotspotid": 829,
                                     "hotspotdisplayname": { "name": "HOLII", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
                                     "categoryid": 110,
-                                    "hotspotname": "Holii"
+                                    "hotspotname": "HOLII"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -1601,7 +1601,7 @@
                                     "svggroupid": "Biotique",
                                     "hotspoticon": "TextLogoBg.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "Biotique",
+                                    "hotspotdescription": "BIOTIQUE",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  804,426, 804,474, 733,545, 730,542",
                                             "kioskid": 114
@@ -1616,7 +1616,7 @@
                                     "hotspotid": 830,
                                     "hotspotdisplayname": { "name": "BIOTIQUE", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
                                     "categoryid": 110,
-                                    "hotspotname": "Biotique"
+                                    "hotspotname": "BIOTIQUE"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -1627,7 +1627,7 @@
                                     "svggroupid": "Gopala",
                                     "hotspoticon": "Gopala.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "Gopala",
+                                    "hotspotdescription": "GOPALA",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  804,426, 804,474, 682,596, 678,592",
                                             "kioskid": 114
@@ -1642,7 +1642,7 @@
                                     "hotspotid": 831,
                                     "hotspotdisplayname": { "name": "GOPALA", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
                                     "categoryid": 110,
-                                    "hotspotname": "Gopala"
+                                    "hotspotname": "GOPALA"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -3882,8 +3882,8 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "Macdonald.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "mcdonalds",
-                                    "hotspotdisplayname": { "name": "mc donalds", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
+                                    "hotspotdescription": "MC DONALDS",
+                                    "hotspotdisplayname": { "name": "MC DONALDS", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
 
                                     "path": [{
                                         "pathpoints": "200,40 160,77 137,77",
@@ -3893,7 +3893,7 @@
                                     "transithotspot": "na",
                                     "hotspotid": 991,
                                     "categoryid": 120,
-                                    "hotspotname": "mcdonalds"
+                                    "hotspotname": "MC DONALDS"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -3948,8 +3948,8 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "TextLogoBg.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "WingDing",
-                                    "hotspotdisplayname": { "name": "Wing Ding", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
+                                    "hotspotdescription": "WING DING",
+                                    "hotspotdisplayname": { "name": "WING DING", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
 
                                     "path": [{
                                         "pathpoints": "200,40 155,77 140,100 130,120 120,140 115,160 110,190 95,190",
@@ -3959,7 +3959,7 @@
                                     "transithotspot": "na",
                                     "hotspotid": 994,
                                     "categoryid": 120,
-                                    "hotspotname": "WingDing"
+                                    "hotspotname": "WING DING"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -3970,8 +3970,8 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "Bercos.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "Bercos",
-                                    "hotspotdisplayname": { "name": "Bercos", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
+                                    "hotspotdescription": "BERCOS",
+                                    "hotspotdisplayname": { "name": "BERCOS", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
 
                                     "path": [{
                                         "pathpoints": "200,40 155,77 140,100 130,120 120,140 115,160 110,190 110,220 96,220",
@@ -3981,7 +3981,7 @@
                                     "transithotspot": "na",
                                     "hotspotid": 995,
                                     "categoryid": 120,
-                                    "hotspotname": "Bercos"
+                                    "hotspotname": "BERCOS"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -3992,8 +3992,8 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "Dominos.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "Dominos",
-                                    "hotspotdisplayname": { "name": "Dominos", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
+                                    "hotspotdescription": "DOMINOS PIZZA",
+                                    "hotspotdisplayname": { "name": "DOMINOS PIZZA", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
 
                                     "path": [{
                                         "pathpoints": "200,40 155,77 140,100 130,120 120,140 115,160 110,190 110,220 113,240 100,240",
@@ -4003,7 +4003,7 @@
                                     "transithotspot": "na",
                                     "hotspotid": 996,
                                     "categoryid": 120,
-                                    "hotspotname": "Dominos"
+                                    "hotspotname": "DOMINOS PIZZA"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -4014,8 +4014,8 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "TextLogoBg.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "Papparoti",
-                                    "hotspotdisplayname": { "name": "Papparoti", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
+                                    "hotspotdescription": "PAPPAROTI",
+                                    "hotspotdisplayname": { "name": "PAPPAROTI", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
 
                                     "path": [{
                                         "pathpoints": "200,40 155,77 140,100 130,120 120,140 115,160 110,190 110,220 113,240 116,250 100,250",
@@ -4025,7 +4025,7 @@
                                     "transithotspot": "na",
                                     "hotspotid": 997,
                                     "categoryid": 120,
-                                    "hotspotname": "Papparoti"
+                                    "hotspotname": "PAPPAROTI"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -4036,8 +4036,8 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "Dhaba @ T3.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "Dhaba@T3",
-                                    "hotspotdisplayname": { "name": "Dhaba@T3", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
+                                    "hotspotdescription": "DHABA@T3",
+                                    "hotspotdisplayname": { "name": "DHABA@T3", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
 
                                     "path": [{
                                         "pathpoints": "200,40 155,77 140,100 130,120 120,140 115,160 110,190 110,220 113,240 116,250 127,277 113,285",
@@ -4047,7 +4047,7 @@
                                     "transithotspot": "na",
                                     "hotspotid": 998,
                                     "categoryid": 120,
-                                    "hotspotname": "Dhaba@T3"
+                                    "hotspotname": "DHABA@T3"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -4058,8 +4058,8 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "TextLogoBg.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "CarnaticCafe",
-                                    "hotspotdisplayname": { "name": "Carnatic Cafe", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
+                                    "hotspotdescription": "CARNATIC CAFE",
+                                    "hotspotdisplayname": { "name": "CARNATIC CAFE", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
 
                                     "path": [{
                                         "pathpoints": "200,40 155,77 140,100 130,120 120,140 115,160 110,190 110,220 113,240 116,250 127,277 138,300 145,313 134,321",
@@ -4069,7 +4069,7 @@
                                     "transithotspot": "na",
                                     "hotspotid": 999,
                                     "categoryid": 120,
-                                    "hotspotname": "CarnaticCafe"
+                                    "hotspotname": "CARNATIC CAFE"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -4080,8 +4080,8 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "Subway.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "Subway",
-                                    "hotspotdisplayname": { "name": "Subway", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
+                                    "hotspotdescription": "SUBWAY",
+                                    "hotspotdisplayname": { "name": "SUBWAY", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
 
                                     "path": [{
                                         "pathpoints": "200,40 155,77 140,100 130,120 120,140 115,160 110,190 110,220 113,240 116,250 127,277 138,300 145,313 160,333 175,345 167,357",
@@ -4091,7 +4091,7 @@
                                     "transithotspot": "na",
                                     "hotspotid": 1000,
                                     "categoryid": 120,
-                                    "hotspotname": "Subway"
+                                    "hotspotname": "SUBWAY"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -4102,8 +4102,8 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "TextLogoBg.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "BiryaniBlues",
-                                    "hotspotdisplayname": { "name": "Biryani Blues", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
+                                    "hotspotdescription": "BIRYANI BLUES",
+                                    "hotspotdisplayname": { "name": "BIRYANI BLUES", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
 
                                     "path": [{
                                         "pathpoints": "200,40 155,77 140,100 130,120 120,140 115,160 110,190 110,220 113,240 116,250 127,277 138,300 145,313 160,333 175,347 192,361 185,373",
@@ -4113,7 +4113,7 @@
                                     "transithotspot": "na",
                                     "hotspotid": 1001,
                                     "categoryid": 120,
-                                    "hotspotname": "BiryaniBlues"
+                                    "hotspotname": "BIRYANI BLUES"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -4124,8 +4124,8 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "TextLogoBg.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "Falafel",
-                                    "hotspotdisplayname": { "name": "Falafel", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
+                                    "hotspotdescription": "FALAFEL",
+                                    "hotspotdisplayname": { "name": "FALAFEL", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
 
                                     "path": [{
                                         "pathpoints": "200,40 155,77 140,100 130,120 120,140 115,160 110,190 110,220 113,240 116,250 127,277 138,300 145,313 160,333 175,347 192,361 210,373 204,385",
@@ -4135,7 +4135,7 @@
                                     "transithotspot": "na",
                                     "hotspotid": 1002,
                                     "categoryid": 120,
-                                    "hotspotname": "Falafel"
+                                    "hotspotname": "FALAFEL"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -4216,6 +4216,69 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "TextLogoBg.png",
                                     "transitforkioskid": "na",
+                                    "hotspotdescription": "CAFECCINO",
+                                    "path": [{
+                                        "pathpoints": "572,580.5, 560,580.5 560,568 481,568 481,582",
+                                        "kioskid": 114
+                                    }],
+                                    "hotspotstatus": "yes",
+                                    "transithotspot": "no",
+                                    "hotspotid": 986,
+                                    "hotspotdisplayname": { "name": "CAFECCINO", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
+                                    "categoryid": 120,
+                                    "hotspotname": "CAFECCINO"
+                                },
+                                {
+                                    "hotspotcolorcode": "9388BA",
+                                    "transitmode": "na",
+                                    "hotspotxpos": 878,
+                                    "hotspotypos": 320,
+                                    "isprecheckin": "false",
+                                    "svggroupid": "111_ALLEN_SOLLY",
+                                    "hotspoticon": "TextLogoBg.png",
+                                    "transitforkioskid": "na",
+                                    "hotspotdescription": "MASALA TWIST",
+                                    "path": [{
+                                        "pathpoints": "572,580.5, 545,580.5 545,583",
+                                        "kioskid": 114
+                                    }],
+                                    "hotspotstatus": "yes",
+                                    "transithotspot": "no",
+                                    "hotspotid": 985,
+                                    "hotspotdisplayname": { "name": "MASALA TWIST", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
+                                    "categoryid": 120,
+                                    "hotspotname": "MASALA TWIST"
+                                },
+                                {
+                                    "hotspotcolorcode": "9388BA",
+                                    "transitmode": "na",
+                                    "hotspotxpos": 878,
+                                    "hotspotypos": 320,
+                                    "isprecheckin": "false",
+                                    "svggroupid": "111_ALLEN_SOLLY",
+                                    "hotspoticon": "TextLogoBg.png",
+                                    "transitforkioskid": "na",
+                                    "hotspotdescription": "CKRUSH JUICE BAR",
+                                    "path": [{
+                                        "pathpoints": "572,580.5, 610,580.5 610,583",
+                                        "kioskid": 114
+                                    }],
+                                    "hotspotstatus": "yes",
+                                    "transithotspot": "no",
+                                    "hotspotid": 956,
+                                    "hotspotdisplayname": { "name": "CKRUSH JUICE BAR", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
+                                    "categoryid": 120,
+                                    "hotspotname": "CKRUSH JUICE BAR"
+                                },
+                                {
+                                    "hotspotcolorcode": "9388BA",
+                                    "transitmode": "na",
+                                    "hotspotxpos": 878,
+                                    "hotspotypos": 320,
+                                    "isprecheckin": "false",
+                                    "svggroupid": "111_ALLEN_SOLLY",
+                                    "hotspoticon": "TextLogoBg.png",
+                                    "transitforkioskid": "na",
                                     "hotspotdescription": "TWG",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 620,410 635,409.5 655,413 655.5,410",
@@ -4237,7 +4300,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "Haldiram.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "Haldiram",
+                                    "hotspotdescription": "HALDIRAM",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 710,424 725,423 728,423 728,370 736.5,370 736.5,366.5",
                                         "kioskid": 114
@@ -4245,9 +4308,9 @@
                                     "hotspotstatus": "yes",
                                     "transithotspot": "no",
                                     "hotspotid": 906,
-                                    "hotspotdisplayname": { "name": "Haldiram", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
+                                    "hotspotdisplayname": { "name": "HALDIRAM", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
                                     "categoryid": 120,
-                                    "hotspotname": "Haldiram"
+                                    "hotspotname": "HALDIRAM"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -4563,6 +4626,27 @@
                                     "hotspotdisplayname": { "name": "FRANK'S", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
                                     "categoryid": 120,
                                     "hotspotname": "FRANK'S"
+                                },
+                                {
+                                    "hotspotcolorcode": "9388BA",
+                                    "transitmode": "na",
+                                    "hotspotxpos": 878,
+                                    "hotspotypos": 320,
+                                    "isprecheckin": "false",
+                                    "svggroupid": "111_ALLEN_SOLLY",
+                                    "hotspoticon": "TextLogoBg.png",
+                                    "transitforkioskid": "na",
+                                    "hotspotdescription": "DILLI STREAT BAR",
+                                    "path": [{
+                                        "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 710,424 725,423 730,423 730,447 737,447 737,475 749,475 749,485 783,518 775,526 895,650 920,650 920,641.5",
+                                        "kioskid": 114
+                                    }],
+                                    "hotspotstatus": "yes",
+                                    "transithotspot": "no",
+                                    "hotspotid": 181,
+                                    "hotspotdisplayname": { "name": "DILLI STREAT BAR", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
+                                    "categoryid": 120,
+                                    "hotspotname": "DILLI STREAT BAR"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -5519,7 +5603,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "Guardian Pharmacy.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "Guardian Pharmacy",
+                                    "hotspotdescription": "GUARDIAN PHARMACY",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 593,413 595,413.3 597,414 600,416 603,419 603.5,421 604.5,422.5 607,423 625,423 635,427 645,433 650,435 680,435 693.5,431 694,433",
                                         "kioskid": 114
@@ -5527,9 +5611,9 @@
                                     "hotspotstatus": "yes",
                                     "transithotspot": "no",
                                     "hotspotid": 230,
-                                    "hotspotdisplayname": { "name": "Guardian Pharmacy", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
+                                    "hotspotdisplayname": { "name": "GUARDIAN PHARMACY", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
                                     "categoryid": 110,
-                                    "hotspotname": "Guardian Pharmacy"
+                                    "hotspotname": "GUARDIAN PHARMACY"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -5540,7 +5624,7 @@
                                     "svggroupid": "Tanishq",
                                     "hotspoticon": "Tanishq.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "Tanishq",
+                                    "hotspotdescription": "TANISHQ",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 711,424  711,420",
                                         "kioskid": 114
@@ -5548,9 +5632,9 @@
                                     "hotspotstatus": "yes",
                                     "transithotspot": "no",
                                     "hotspotid": 231,
-                                    "hotspotdisplayname": { "name": "Tanishq", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
+                                    "hotspotdisplayname": { "name": "TANISHQ", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
                                     "categoryid": 110,
-                                    "hotspotname": "Tanishq"
+                                    "hotspotname": "TANISHQ"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -5561,7 +5645,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "United Colors Of Beneton.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "United Colors Of Beneton",
+                                    "hotspotdescription": "UNITED COLORS OF BENETON",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 593,413 595,413.3 597,414 600,416 603,419 603.5,421 604.5,422.5 607,423 623,423 623,426",
                                         "kioskid": 114
@@ -5569,9 +5653,9 @@
                                     "hotspotstatus": "yes",
                                     "transithotspot": "no",
                                     "hotspotid": 232,
-                                    "hotspotdisplayname": { "name": "United Colors Of Beneton", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
+                                    "hotspotdisplayname": { "name": "UNITED COLORS OF BENETON", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
                                     "categoryid": 110,
-                                    "hotspotname": "United Colors Of Beneton"
+                                    "hotspotname": "UNITED COLORS OF BENETON"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -5582,7 +5666,7 @@
                                     "svggroupid": "Fabindia",
                                     "hotspoticon": "WH Smith.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "fabindia",
+                                    "hotspotdescription": "WH SMITH",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 711,424  711,426.5",
                                         "kioskid": 114
@@ -5590,9 +5674,9 @@
                                     "hotspotstatus": "yes",
                                     "transithotspot": "no",
                                     "hotspotid": 233,
-                                    "hotspotdisplayname": { "name": "WH Smith", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
+                                    "hotspotdisplayname": { "name": "WH SMITH", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
                                     "categoryid": 110,
-                                    "hotspotname": "WH Smith"
+                                    "hotspotname": "WH SMITH"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -6862,7 +6946,7 @@
                                     "svggroupid": "Dilli_Streat",
                                     "hotspoticon": "Cofee beans.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "TheCoffeeBean&TeaLeaf",
+                                    "hotspotdescription": "THE COFFEE BEAN &  TEA LEAF",
                                     "path": [{
                                         "pathpoints": "946,150 912,150",
                                         "kioskid": 1021
@@ -6870,9 +6954,9 @@
                                     "hotspotstatus": "yes",
                                     "transithotspot": "no",
                                     "hotspotid": 1019,
-                                    "hotspotdisplayname": { "name": "The Coffee Bean & Tea Leaf", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
+                                    "hotspotdisplayname": { "name": "THE COFFEE BEAN &  TEA LEAF", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
                                     "categoryid": 120,
-                                    "hotspotname": "TheCoffeeBean&TeaLeaf"
+                                    "hotspotname": "THE COFFEE BEAN &  TEA LEAF"
                                 }, {
                                     "hotspotcolorcode": "9388BA",
                                     "transitmode": "el2",
@@ -6903,8 +6987,8 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "Dilli Strat.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "DilliStreat",
-                                    "hotspotdisplayname": { "name": "Dilli Streat", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
+                                    "hotspotdescription": "DILLI STREAT",
+                                    "hotspotdisplayname": { "name": "DILLI STREAT", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
 
                                     "path": [{
                                         "pathpoints": "946,150 930,150 930,180 1075,180 1075,210 1090,210",
@@ -6914,7 +6998,7 @@
                                     "transithotspot": "na",
                                     "hotspotid": 1022,
                                     "categoryid": 120,
-                                    "hotspotname": "DilliStreat"
+                                    "hotspotname": "DILLI STREAT"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -6925,8 +7009,8 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "Bercos.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "Bercos",
-                                    "hotspotdisplayname": { "name": "Bercos", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
+                                    "hotspotdescription": "BERCOS",
+                                    "hotspotdisplayname": { "name": "BERCOS", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
 
                                     "path": [{
                                         "pathpoints": "946,150 930,150 930,180 1075,180 1075,250 1090,250",
@@ -6936,7 +7020,7 @@
                                     "transithotspot": "na",
                                     "hotspotid": 1023,
                                     "categoryid": 120,
-                                    "hotspotname": "Bercos"
+                                    "hotspotname": "BERCOS"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -6947,8 +7031,8 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "Subway.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "Subway",
-                                    "hotspotdisplayname": { "name": "Subway", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
+                                    "hotspotdescription": "SUBWAY",
+                                    "hotspotdisplayname": { "name": "SUBWAY", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
 
                                     "path": [{
                                         "pathpoints": "946,150 930,150 930,180 1075,180 1075,300 1090,300",
@@ -6958,7 +7042,7 @@
                                     "transithotspot": "na",
                                     "hotspotid": 1024,
                                     "categoryid": 120,
-                                    "hotspotname": "Subway"
+                                    "hotspotname": "SUBWAY"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -6969,8 +7053,8 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "Dominos.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "Dominos",
-                                    "hotspotdisplayname": { "name": "Dominos", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
+                                    "hotspotdescription": "DOMINOS PIZZA",
+                                    "hotspotdisplayname": { "name": "DOMINOS PIZZA", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
 
                                     "path": [{
                                         "pathpoints": "946,150 930,150 930,180 1075,180 1075,335 1090,335",
@@ -6980,7 +7064,7 @@
                                     "transithotspot": "na",
                                     "hotspotid": 1025,
                                     "categoryid": 120,
-                                    "hotspotname": "Dominos"
+                                    "hotspotname": "DOMINOS PIZZA"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -6991,8 +7075,8 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "Macdonald.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "McDonalds",
-                                    "hotspotdisplayname": { "name": "Mc Donalds", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
+                                    "hotspotdescription": "MC DONALDS",
+                                    "hotspotdisplayname": { "name": "MC DONALDS", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
 
                                     "path": [{
                                         "pathpoints": "946,150 930,150 930,180 1075,180 1075,340 1069,365 1082,370",
@@ -7002,7 +7086,7 @@
                                     "transithotspot": "na",
                                     "hotspotid": 1026,
                                     "categoryid": 120,
-                                    "hotspotname": "McDonalds"
+                                    "hotspotname": "MC DONALDS"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -7035,8 +7119,8 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "Idli.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "Idli.com",
-                                    "hotspotdisplayname": { "name": "Idli.com", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
+                                    "hotspotdescription": "IDLI.COM",
+                                    "hotspotdisplayname": { "name": "IDLI.COM", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
 
                                     "path": [{
                                         "pathpoints": "946,150 930,150 930,180 1075,180 1075,340 1069,365 1055,393 1047,406 1040,415 1025,427 995,437 980,439 980,452",
@@ -7046,7 +7130,7 @@
                                     "transithotspot": "na",
                                     "hotspotid": 1028,
                                     "categoryid": 120,
-                                    "hotspotname": "Idli.com"
+                                    "hotspotname": "IDLI.COM"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -7057,8 +7141,8 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "Curry Kitchen.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "CurryKitchen",
-                                    "hotspotdisplayname": { "name": "Curry Kitchen", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
+                                    "hotspotdescription": "CURRY KITCHEN",
+                                    "hotspotdisplayname": { "name": "CURRY KITCHEN", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
 
                                     "path": [{
                                         "pathpoints": "946,150 930,150 930,180 1075,180 1075,340 1069,365 1055,393 1047,406 1040,415 1025,427 995,437 980,439 950,439 950,452",
@@ -7068,7 +7152,7 @@
                                     "transithotspot": "na",
                                     "hotspotid": 1029,
                                     "categoryid": 120,
-                                    "hotspotname": "CurryKitchen"
+                                    "hotspotname": "CURRY KITCHEN"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -7079,8 +7163,8 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "TextLogoBg.png",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "O2Spa",
-                                    "hotspotdisplayname": { "name": "O2 Spa", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
+                                    "hotspotdescription": "O2 SPA",
+                                    "hotspotdisplayname": { "name": "O2 SPA", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
 
                                     "path": [{
                                         "pathpoints": "946,150 930,150 930,180 1075,180 1075,340 1069,365 1055,393 1047,406 1040,415 1025,427 995,437 980,439 950,439 850,429 735,395 730,410",
@@ -7090,7 +7174,7 @@
                                     "transithotspot": "na",
                                     "hotspotid": 1030,
                                     "categoryid": 110,
-                                    "hotspotname": "O2Spa"
+                                    "hotspotname": "O2 SPA"
                                 }
                             ]
                         }

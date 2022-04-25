@@ -6,8 +6,12 @@
         </div>
         <p class="hotspot-name">{{hotspotName}}</p>
     </div>
+    <div class="col-md-12 map-bg mb-1" v-if="svgMapToggle" >
+        <MapFirstFloor class="svgMap" :mapName="svgMapName[1]" svgid="svgId2" :kioskxpos="kioskxpos" :kioskypos="kioskypos" :pathpoints="pathpoints[1]" :departurename="departurename" :showKioskPos="showKioskPos[1]" :mapType="mapType">
+        </MapFirstFloor>
+    </div>
     <div class="col-md-12 map-bg" >
-        <Map v-if="svgMapToggle" class="svgMap" :mapName="svgMapName" svgid="svgId" :zoneName="zoneName" :fullMap="fullMap" :kioskxpos="kioskxpos" :kioskypos="kioskypos" :hotspotxpos="hotspotxpos" :hotspotypos="hotspotypos" :hotspotPos="hotspotPos[0]" :pathpoints="pathpoints" :departurename="departurename" :showKioskPos="showKioskPos" :mapType="mapType" ref="expmap">
+        <Map class="svgMap" :mapName="svgMapName[0]" svgid="svgId" :kioskxpos="kioskxpos" :kioskypos="kioskypos" :pathpoints="pathpoints[0]" :departurename="departurename" :showKioskPos="showKioskPos[0]" :mapType="mapType">
         </Map>
     </div>
     <div class="col-md-12 mt-4" >
@@ -18,28 +22,27 @@
 
 <script>
 import Map from './Map.vue'
+import MapFirstFloor from './MapFirstFloor.vue'
 import Methods from '../utils/Methods'
 import $ from 'jquery'
 export default{
     components: {
-        Map
+        Map,
+        MapFirstFloor
     },
     props: ['msg'],
     data() {
         return {
-            hotspotPos: [false, false],
             drawLine: [false, false],
             kioskxpos: 0,
             kioskypos: 0,
-            hotspotxpos: 0,
-            hotspotypos: 0,
-            pathpoints : '',
-            svgMapName: '',
+            pathpoints : ['', ''],
+            svgMapName: ['', ''],
             departurename: '',
             hotspotName: '',
             pathDirection: [],
-            svgMapToggle: true,
-            showKioskPos: true,
+            svgMapToggle: false,
+            showKioskPos: [true, false],
             mapType: ''
         }
     },
@@ -53,11 +56,11 @@ export default{
             let mapType = (kioskid == 114 ? 'pri' : 'dom')
             this.mapType = mapType
             if (hotspotid == 0) {
-                let kioskAndMapData = Methods.mapWithoutHotspot(kioskid, mapType)
+                let kioskAndMapData = Methods.mapWithoutHotspot(kioskid, mapType, departureType)
                 this.kioskxpos = kioskAndMapData.kioskxpos
                 this.kioskypos = kioskAndMapData.kioskypos
-                this.svgMapName = kioskAndMapData.mapname
-                this.pathpoints = kioskAndMapData.pathpoints
+                this.svgMapName[0] = kioskAndMapData.mapname
+                this.pathpoints[0] = kioskAndMapData.pathpoints
                 this.departurename = kioskAndMapData.departurename
                 this.hotspotName = kioskAndMapData.displayname.name
                 this.pathDirection = kioskAndMapData.displayname.description
@@ -68,10 +71,8 @@ export default{
                 if(kioskfloorno != hotspotfloorno) {
                     let pathValues = Methods.getTransitPathPoints(kioskid, hotspotid,  kioskfloorno, hotspotfloorno, mapType, departureType)
                     var kioskPos = Methods.getKioskPos(kioskid, departureType)
-                    this.hotspotxpos = (pathValues.map2points.hotspotxpos - 30)
-                    this.hotspotypos = (pathValues.map2points.hotspotypos - 60)
-                    this.svgMapName = pathValues.map1points.mapname
-                    this.pathpoints = pathValues.map1points.path.pathpoints
+                    this.svgMapName[0] = pathValues.map1points.mapname
+                    this.pathpoints[0] = pathValues.map1points.path.pathpoints
                     this.departurename = (departureType == "dm" ? 'DOMESTIC DEPARTURE': 'INTERNATIONAL DEPARTURE')
                     this.kioskxpos = kioskPos.x
                     this.kioskypos = kioskPos.y
@@ -83,10 +84,9 @@ export default{
                         setTimeout(() => {
                             this.drawLine[1] = true
                             // this.grayOutSvg(hotspotid, kioskfloorno);
-                            this.svgMapToggle = false
-                            this.showKioskPos = false
-                            this.svgMapName = pathValues.map2points.mapname
-                            this.pathpoints = pathValues.map2points.path.pathpoints
+                            // this.svgMapToggle = false
+                            this.svgMapName[1] = pathValues.map2points.mapname
+                            this.pathpoints[1] = pathValues.map2points.path.pathpoints
                             setTimeout(()=>{ this.svgMapToggle = true },200)
                         }, 3000)
                     }, 500)
@@ -94,10 +94,8 @@ export default{
                     var kioskHotspotData = Methods.getKioskAndHotspotData(kioskid, hotspotid, mapType)
                     this.kioskxpos = kioskHotspotData.kioskxpos
                     this.kioskypos = kioskHotspotData.kioskypos
-                    this.hotspotxpos = (kioskHotspotData.hotspotxpos - 30)
-                    this.hotspotypos = (kioskHotspotData.hotspotypos - 60)
-                    this.svgMapName = kioskHotspotData.mapname
-                    this.pathpoints = kioskHotspotData.pathpoints
+                    this.svgMapName[0] = kioskHotspotData.mapname
+                    this.pathpoints[0] = kioskHotspotData.pathpoints
                     this.departurename = kioskHotspotData.departurename
                     this.hotspotName = kioskHotspotData.displayname.name
                     this.pathDirection = kioskHotspotData.displayname.description

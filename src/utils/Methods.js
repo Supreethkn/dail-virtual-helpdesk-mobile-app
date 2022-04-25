@@ -142,34 +142,39 @@ export default {
         return hotspotPos
     },
 
-    mapWithoutHotspot(kioskId, mapType) {
+    mapWithoutHotspot(kioskId, mapType, zoneName) {
         let mapAndKioskData = { kioskxpos: 0, kioskypos: 0, departurename: '', mapname: '', pathpoints: '', displayname: '' }
-        var zones = []
-        if (mapType == "pri") {
-            zones = json.park[0].zone
+
+        var floors = []
+        if (zoneName == 'in') {
+            floors = json.park[0].zone[1].building[0].floor
         } else {
-            zones.push(json.park[0].zone[0])
+            let items = json.park[0].zone[0].building[0].floor
+            for (let i in items) {
+                floors.push(items[i]);
+            }
         }
 
         var checkflag = false
-        for (let k in zones) {
-            let floors = zones[k].building[0].floor
-            for (let i = 0; i < floors.length; i++) {
-                for (let l = 0; l < floors[i].kiosklist.length; l++) {
-                    if (floors[i].kiosklist[l].kioskid == kioskId) {
-                        mapAndKioskData.kioskxpos = floors[i].kiosklist[l].kioskxpos
-                        mapAndKioskData.kioskypos = floors[i].kiosklist[l].kioskypos
-                        mapAndKioskData.departurename = zones[k].zonename
-                        let mapname = (mapType == 'pri' ? floors[i].mapname.pri : floors[i].mapname.dom)
-                        mapAndKioskData.mapname = mapname
-                        checkflag = true
-                        break;
-                    }
+            // for (let k in zones) {
+            //     let floors = zones[k].building[0].floor
+        for (let i = 0; i < floors.length; i++) {
+            for (let l = 0; l < floors[i].kiosklist.length; l++) {
+                if (floors[i].kiosklist[l].kioskid == kioskId) {
+                    console.log(floors[i]);
+                    mapAndKioskData.kioskxpos = floors[i].kiosklist[l].kioskxpos
+                    mapAndKioskData.kioskypos = floors[i].kiosklist[l].kioskypos
+                    mapAndKioskData.departurename = (zoneName == "dm" ? 'DOMESTIC DEPARTURE' : 'INTERNATIONAL DEPARTURE')
+                    let mapname = (mapType == 'pri' ? floors[i].mapname.pri : floors[i].mapname.dom)
+                    mapAndKioskData.mapname = mapname
+                    checkflag = true
+                    break;
                 }
-                if (checkflag) break;
             }
             if (checkflag) break;
         }
+        //     if (checkflag) break;
+        // }
         return mapAndKioskData
     },
 

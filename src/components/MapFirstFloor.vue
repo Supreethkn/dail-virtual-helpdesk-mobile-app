@@ -1,7 +1,8 @@
 <template>
-    <div class="loader" v-if="loading"></div>
+    <!-- <div class="loader" v-if="loading"></div> -->
+
     <div class="map-holder" :id="svgid">
-        <svg :class="svgid" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 900">
+        <svg :class="svgid" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
         </svg>
     </div>
 </template>
@@ -22,27 +23,13 @@ export default{
     },
     mounted(){
         let departurename = this.departurename
+        var svgMapName = this.mapName;
         setTimeout(() => {
             let svgid = this.svgid;
             let mapLoaded = false
             let screenWidth = screen.availWidth
             let screenHeight = screen.availHeight
             let mapType = this.mapType
-
-            let sx = 0
-            let sh = (screenHeight + 100 < 787 ? (screenHeight) : screenHeight > (787+100) ? 787 : (screenHeight - 787 > 100) ? screenHeight : screenHeight-100 );
-            if (mapType == "dom") {
-                sx = 0
-            } else {
-                sx = (departurename == "DOMESTIC DEPARTURE" ? 165 : 350)
-            }
-            viewBox = {x: sx, y:0, w:viewBox.w, h: (screenWidth < 500 ? 787 : sh)}
-
-            movedViewBox = viewBox
-
-            var svgImagetp = document.getElementsByTagName("svg")[0];
-            svgImagetp.setAttribute('viewBox', `${viewBox.x} ${viewBox.y} ${viewBox.w} ${viewBox.h}`);
-
             $.ajax({
                 url: require(`@/assets/map/${this.mapName}`) ,
                 dataType: 'html',
@@ -50,10 +37,24 @@ export default{
                 success: function(data) 
                 {       
                     // console.log(data);  
-                    $(`#${svgid} .${svgid}`).replaceWith(data);                   
-                    
-                    var svgImageTemp = document.getElementsByTagName("svg")[0];
-                    svgImageTemp.setAttribute('viewBox', `${viewBox.x} ${viewBox.y} ${viewBox.w} ${viewBox.h}`);
+                    $(`#${svgid} .${svgid}`).replaceWith(data);
+                    if(svgMapName == 'domesticFoodCourt.svg'){
+                        viewBox = {x: -140, y:-90, w:1296, h:787}
+                    } else if(svgMapName == 'internationalFoodCourt.svg'){
+                        viewBox = {x: 50, y:-0, w:1296, h:787}
+                    } else {
+                        let sx = 0
+                        let sh = (screenHeight + 100 < 787 ? (screenHeight) : screenHeight > (787+100) ? 787 : (screenHeight - 787 > 100) ? screenHeight : screenHeight-100 );
+                        if (mapType == "dom") {
+                            sx = 0
+                        } else {
+                            sx = (departurename == "DOMESTIC DEPARTURE" ? 165 : 350)
+                        }
+                        viewBox = {x: sx, y:0, w:viewBox.w, h: (screenWidth < 500 ? 787 : sh)}
+                    }
+                    movedViewBox = viewBox
+                    const svgImage = document.getElementsByTagName("svg")[0];
+                    svgImage.setAttribute('viewBox', `${viewBox.x} ${viewBox.y} ${viewBox.w} ${viewBox.h}`);
                     mapLoaded = true
                 }
             });

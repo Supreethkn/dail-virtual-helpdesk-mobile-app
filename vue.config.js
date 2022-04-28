@@ -11,9 +11,9 @@
 //     "vuetify"
 //   ]
 // }
-
+publicPath: process.env.NODE_ENV === 'production'
 module.exports = {
-    publicPath: "",
+    publicPath: process.env.NODE_ENV === 'production'? '/DIAL_VirutalAssist_MobileApp/': '/',
     css: {
         loaderOptions: {
             scss: {

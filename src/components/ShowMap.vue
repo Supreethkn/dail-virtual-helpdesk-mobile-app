@@ -91,13 +91,13 @@ export default{
                         }, 3000)
                     }, 500)
                 } else if(kioskfloorno == hotspotfloorno)  {
-                    var kioskHotspotData = Methods.getKioskAndHotspotData(kioskid, hotspotid, mapType)
+                    var kioskHotspotData = Methods.getKioskAndHotspotData(kioskid, hotspotid, mapType);console.log(kioskHotspotData);
                     this.kioskxpos = kioskHotspotData.kioskxpos
                     this.kioskypos = kioskHotspotData.kioskypos
                     this.svgMapName[0] = kioskHotspotData.mapname
                     this.pathpoints[0] = kioskHotspotData.pathpoints
                     this.departurename = kioskHotspotData.departurename
-                    this.hotspotName = kioskHotspotData.displayname.name
+                    this.hotspotName = kioskHotspotData.displayname.name || kioskHotspotData.displayname.toUpperCase();
                     this.pathDirection = kioskHotspotData.displayname.description
                 }
             }

@@ -2421,7 +2421,7 @@
                                     "transitforkioskid": "na",
                                     "hotspotdescription": "MONEY EXCHANGE",
                                     "path": [{
-                                        "pathpoints": "978,573 949,573 949,576",
+                                        "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435, 942,415, 942,402, 935,395 935,385 945,376",
                                         "kioskid": 114
                                     },
                                     {
@@ -4141,7 +4141,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate27",
+                                    "hotspotdescription": " 7 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  793,426, 793,338 780,338",
                                             "kioskid": 114
@@ -4167,7 +4167,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate27A",
+                                    "hotspotdescription": " 7 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  793,426, 793,338 780,338",
                                             "kioskid": 114
@@ -4193,7 +4193,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate27B",
+                                    "hotspotdescription": " 7 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  793,426, 793,338 780,338",
                                             "kioskid": 114
@@ -4219,7 +4219,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate28",
+                                    "hotspotdescription": " 7 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,338 808,338",
                                             "kioskid": 114
@@ -4245,7 +4245,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate28A",
+                                    "hotspotdescription": " 7 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,338 808,338",
                                             "kioskid": 114
@@ -4271,7 +4271,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate28B",
+                                    "hotspotdescription": " 7 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,338 808,338",
                                             "kioskid": 114
@@ -4297,7 +4297,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate29",
+                                    "hotspotdescription": " 7 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  793,426, 793,254 786,254",
                                             "kioskid": 114
@@ -4323,7 +4323,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate29A",
+                                    "hotspotdescription": " 7 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  793,426, 793,254 786,254",
                                             "kioskid": 114
@@ -4349,7 +4349,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate29B",
+                                    "hotspotdescription": " 7 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  793,426, 793,254 786,254",
                                             "kioskid": 114
@@ -4375,7 +4375,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate30",
+                                    "hotspotdescription": " 7 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,254 808,254",
                                             "kioskid": 114
@@ -4401,7 +4401,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate30A",
+                                    "hotspotdescription": " 7 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,254 808,254",
                                             "kioskid": 114
@@ -4427,7 +4427,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate30B",
+                                    "hotspotdescription": " 7 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,254 808,254",
                                             "kioskid": 114
@@ -4453,7 +4453,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate31",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  793,426, 793,168 786,168",
                                             "kioskid": 114
@@ -4479,7 +4479,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate31A",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  793,426, 793,168 786,168",
                                             "kioskid": 114
@@ -4505,7 +4505,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate31B",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  793,426, 793,168 786,168",
                                             "kioskid": 114
@@ -4531,7 +4531,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate32",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,168 808,168",
                                             "kioskid": 114
@@ -4557,7 +4557,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate32A",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,168 808,168",
                                             "kioskid": 114
@@ -4583,7 +4583,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate32B",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,168 808,168",
                                             "kioskid": 114
@@ -4609,7 +4609,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate33",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  793,426, 793,95 786,95",
                                             "kioskid": 114
@@ -4635,7 +4635,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate33A",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  793,426, 793,95 786,95",
                                             "kioskid": 114
@@ -4661,7 +4661,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate33B",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  793,426, 793,95 786,95",
                                             "kioskid": 114
@@ -4687,7 +4687,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate34",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,98 808,98",
                                             "kioskid": 114
@@ -4713,7 +4713,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate34A",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,98 808,98",
                                             "kioskid": 114
@@ -4739,7 +4739,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate34B",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,98 808,98",
                                             "kioskid": 114
@@ -4765,7 +4765,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate36",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,31 808,31",
                                             "kioskid": 114
@@ -4791,7 +4791,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate36A",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,31 808,31",
                                             "kioskid": 114
@@ -4817,7 +4817,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate36B",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,31 808,31",
                                             "kioskid": 114
@@ -4843,7 +4843,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate37A",
+                                    "hotspotdescription": " 7 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  804,426, 804,474, 766,512, 748,494",
                                             "kioskid": 114
@@ -4869,7 +4869,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate37B",
+                                    "hotspotdescription": " 7 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  804,426, 804,474, 766,512, 748,494",
                                             "kioskid": 114
@@ -4895,7 +4895,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate39A",
+                                    "hotspotdescription": " 7 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  804,426, 804,474, 708,570, 690,552",
                                             "kioskid": 114
@@ -4921,7 +4921,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate39B",
+                                    "hotspotdescription": " 7 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  804,426, 804,474, 708,570, 690,552",
                                             "kioskid": 114
@@ -4947,7 +4947,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate41A",
+                                    "hotspotdescription": " 7 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  804,426, 804,474, 666,612, 648,594",
                                             "kioskid": 114
@@ -4973,7 +4973,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate41B",
+                                    "hotspotdescription": " 7 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  804,426, 804,474, 666,612, 648,594",
                                             "kioskid": 114
@@ -4999,7 +4999,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate42A",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,473, 633,640, 633,644, 628,644, 628,654",
                                             "kioskid": 114
@@ -5025,7 +5025,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate42B",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,473, 633,640, 633,644, 628,644, 628,654",
                                             "kioskid": 114
@@ -5051,7 +5051,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate44A",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,473, 633,640, 633,644, 564,644, 564,654",
                                             "kioskid": 114
@@ -5077,7 +5077,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate44B",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,473, 633,640, 633,644, 564,644, 564,652, 530,652, 530,654",
                                             "kioskid": 114
@@ -5103,7 +5103,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate46A",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,473, 633,640, 633,644, 564,644, 564,652, 487,652, 487,654",
                                             "kioskid": 114
@@ -5129,7 +5129,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate46B",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,473, 633,640, 633,644, 564,644, 564,652, 487,652, 487,654",
                                             "kioskid": 114
@@ -5155,7 +5155,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate48A",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,473, 633,640, 633,644, 564,644, 564,652, 445,652, 445,654",
                                             "kioskid": 114
@@ -5181,7 +5181,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate48B",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,473, 633,640, 633,644, 564,644, 564,652, 445,652, 445,654",
                                             "kioskid": 114
@@ -5207,7 +5207,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate50A",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,473, 633,640, 633,644, 564,644, 564,652, 402,652, 402,654",
                                             "kioskid": 114
@@ -5233,7 +5233,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate50B",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,473, 633,640, 633,644, 564,644, 564,652, 402,652, 402,654",
                                             "kioskid": 114
@@ -5259,7 +5259,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate52A",
+                                    "hotspotdescription": " 15 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,473, 633,640, 633,644, 564,644, 564,652, 359,652, 359,654",
                                             "kioskid": 114
@@ -5285,7 +5285,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate52B",
+                                    "hotspotdescription": " 15 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,473, 633,640, 633,644, 564,644, 564,652, 359,652, 359,654",
                                             "kioskid": 114
@@ -5311,7 +5311,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate54A",
+                                    "hotspotdescription": " 15 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,473, 633,640, 633,644, 564,644, 564,652, 316,652, 316,654",
                                             "kioskid": 114
@@ -5337,7 +5337,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate54B",
+                                    "hotspotdescription": " 15 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,473, 633,640, 633,644, 564,644, 564,652, 316,652, 316,654",
                                             "kioskid": 114
@@ -5363,7 +5363,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate56A",
+                                    "hotspotdescription": " 15 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,473, 633,640, 633,644, 564,644, 564,652, 276,652, 276,654",
                                             "kioskid": 114
@@ -5389,7 +5389,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate56B",
+                                    "hotspotdescription": " 15 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,473, 633,640, 633,644, 564,644, 564,652, 276,652, 276,654",
                                             "kioskid": 114
@@ -5415,7 +5415,163 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate43A",
+                                    "hotspotdescription": " 15 ",
+                                    "path": [{
+                                            "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,473, 633,640, 633,644, 564,644, 564,652, 237,652, 237,654",
+                                            "kioskid": 114
+                                        },
+                                        {
+                                            "pathpoints": "727,388, 727,381 722,376 716,376 704,383 678,383 670,381 663,377 659,377 658,377.5 646,390 590.7,390 590.7,438 437,591 437,593 63.8,593 63.8,604.5",
+                                            "kioskid": 115
+                                        }
+                                    ],
+                                    "hotspotstatus": "yes",
+                                    "transithotspot": "no",
+                                    "hotspotid": 555,
+                                    "hotspotdisplayname": "gate58",
+                                    "categoryid": 122,
+                                    "hotspotname": "58"
+                                },
+                                {
+                                    "hotspotcolorcode": "9388BA",
+                                    "transitmode": "na",
+                                    "hotspotxpos": 878,
+                                    "hotspotypos": 320,
+                                    "isprecheckin": "false",
+                                    "svggroupid": "111_ALLEN_SOLLY",
+                                    "hotspoticon": "gates",
+                                    "transitforkioskid": "na",
+                                    "hotspotdescription": " 15 ",
+                                    "path": [{
+                                            "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,473, 633,640, 633,644, 564,644, 564,652, 237,652, 237,654",
+                                            "kioskid": 114
+                                        },
+                                        {
+                                            "pathpoints": "727,388, 727,381 722,376 716,376 704,383 678,383 670,381 663,377 659,377 658,377.5 646,390 590.7,390 590.7,438 437,591 437,593 63.8,593 63.8,604.5",
+                                            "kioskid": 115
+                                        }
+                                    ],
+                                    "hotspotstatus": "yes",
+                                    "transithotspot": "no",
+                                    "hotspotid": 6666,
+                                    "hotspotdisplayname": "gate58A",
+                                    "categoryid": 122,
+                                    "hotspotname": "58A"
+                                },
+                                {
+                                    "hotspotcolorcode": "9388BA",
+                                    "transitmode": "na",
+                                    "hotspotxpos": 878,
+                                    "hotspotypos": 320,
+                                    "isprecheckin": "false",
+                                    "svggroupid": "111_ALLEN_SOLLY",
+                                    "hotspoticon": "gates",
+                                    "transitforkioskid": "na",
+                                    "hotspotdescription": " 15 ",
+                                    "path": [{
+                                            "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,473, 633,640, 633,644, 564,644, 564,652, 237,652, 237,654",
+                                            "kioskid": 114
+                                        },
+                                        {
+                                            "pathpoints": "727,388, 727,381 722,376 716,376 704,383 678,383 670,381 663,377 659,377 658,377.5 646,390 590.7,390 590.7,438 437,591 437,593 63.8,593 63.8,604.5",
+                                            "kioskid": 115
+                                        }
+                                    ],
+                                    "hotspotstatus": "yes",
+                                    "transithotspot": "no",
+                                    "hotspotid": 7777,
+                                    "hotspotdisplayname": "gate58B",
+                                    "categoryid": 122,
+                                    "hotspotname": "58B"
+                                },
+                                {
+                                    "hotspotcolorcode": "9388BA",
+                                    "transitmode": "na",
+                                    "hotspotxpos": 878,
+                                    "hotspotypos": 320,
+                                    "isprecheckin": "false",
+                                    "svggroupid": "111_ALLEN_SOLLY",
+                                    "hotspoticon": "gates",
+                                    "transitforkioskid": "na",
+                                    "hotspotdescription": " 15 ",
+                                    "path": [{
+                                            "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,473, 633,640, 633,644, 564,644, 564,652, 200,652, 200,654",
+                                            "kioskid": 114
+                                        },
+                                        {
+                                            "pathpoints": "727,388, 727,381 722,376 716,376 704,383 678,383 670,381 663,377 659,377 658,377.5 646,390 590.7,390 590.7,438 437,591 437,593 29.8,593 29.8,604.5",
+                                            "kioskid": 115
+                                        }
+                                    ],
+                                    "hotspotstatus": "yes",
+                                    "transithotspot": "no",
+                                    "hotspotid": 8888,
+                                    "hotspotdisplayname": "gate60",
+                                    "categoryid": 122,
+                                    "hotspotname": "60"
+                                },
+                                {
+                                    "hotspotcolorcode": "9388BA",
+                                    "transitmode": "na",
+                                    "hotspotxpos": 878,
+                                    "hotspotypos": 320,
+                                    "isprecheckin": "false",
+                                    "svggroupid": "111_ALLEN_SOLLY",
+                                    "hotspoticon": "gates",
+                                    "transitforkioskid": "na",
+                                    "hotspotdescription": " 15 ",
+                                    "path": [{
+                                            "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,473, 633,640, 633,644, 564,644, 564,652, 200,652, 200,654",
+                                            "kioskid": 114
+                                        },
+                                        {
+                                            "pathpoints": "727,388, 727,381 722,376 716,376 704,383 678,383 670,381 663,377 659,377 658,377.5 646,390 590.7,390 590.7,438 437,591 437,593 29.8,593 29.8,604.5",
+                                            "kioskid": 115
+                                        }
+                                    ],
+                                    "hotspotstatus": "yes",
+                                    "transithotspot": "no",
+                                    "hotspotid": 1212,
+                                    "hotspotdisplayname": "gate60A",
+                                    "categoryid": 122,
+                                    "hotspotname": "60A"
+                                },
+                                {
+                                    "hotspotcolorcode": "9388BA",
+                                    "transitmode": "na",
+                                    "hotspotxpos": 878,
+                                    "hotspotypos": 320,
+                                    "isprecheckin": "false",
+                                    "svggroupid": "111_ALLEN_SOLLY",
+                                    "hotspoticon": "gates",
+                                    "transitforkioskid": "na",
+                                    "hotspotdescription": " 15 ",
+                                    "path": [{
+                                            "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,473, 633,640, 633,644, 564,644, 564,652, 200,652, 200,654",
+                                            "kioskid": 114
+                                        },
+                                        {
+                                            "pathpoints": "727,388, 727,381 722,376 716,376 704,383 678,383 670,381 663,377 659,377 658,377.5 646,390 590.7,390 590.7,438 437,591 437,593 29.8,593 29.8,604.5",
+                                            "kioskid": 115
+                                        }
+                                    ],
+                                    "hotspotstatus": "yes",
+                                    "transithotspot": "no",
+                                    "hotspotid": 1313,
+                                    "hotspotdisplayname": "gate60B",
+                                    "categoryid": 122,
+                                    "hotspotname": "60B"
+                                },
+                                {
+                                    "hotspotcolorcode": "9388BA",
+                                    "transitmode": "na",
+                                    "hotspotxpos": 878,
+                                    "hotspotypos": 320,
+                                    "isprecheckin": "false",
+                                    "svggroupid": "111_ALLEN_SOLLY",
+                                    "hotspoticon": "gates",
+                                    "transitforkioskid": "na",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,473, 638,635, 572,635, 572,624",
                                             "kioskid": 114
@@ -5441,7 +5597,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate43B",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,473, 638,635, 572,635, 572,624",
                                             "kioskid": 114
@@ -5467,7 +5623,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate45A",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,473, 638,635, 530,635, 530,624",
                                             "kioskid": 114
@@ -5493,7 +5649,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate45B",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,473, 638,635, 530,635, 530,624",
                                             "kioskid": 114
@@ -5519,7 +5675,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate47A",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,473, 638,635, 487,635, 487,624",
                                             "kioskid": 114
@@ -5545,7 +5701,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate47B",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,473, 638,635, 487,635, 487,624",
                                             "kioskid": 114
@@ -5571,7 +5727,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate49A",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,473, 638,635, 445,635, 445,624",
                                             "kioskid": 114
@@ -5597,7 +5753,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate49B",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,473, 638,635, 445,635, 445,624",
                                             "kioskid": 114
@@ -5623,7 +5779,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate51A",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,473, 638,635, 402,635, 402,624",
                                             "kioskid": 114
@@ -5649,7 +5805,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate51B",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,473, 638,635, 402,635, 402,624",
                                             "kioskid": 114
@@ -5675,7 +5831,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate53A",
+                                    "hotspotdescription": " 15 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,473, 638,635, 359,635, 359,624",
                                             "kioskid": 114
@@ -5701,7 +5857,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate53B",
+                                    "hotspotdescription": " 15 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,473, 638,635, 359,635, 359,624",
                                             "kioskid": 114
@@ -5727,7 +5883,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate55A",
+                                    "hotspotdescription": " 15 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,473, 638,635, 316,635, 316,624",
                                             "kioskid": 114
@@ -5753,7 +5909,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate55B",
+                                    "hotspotdescription": " 15 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,473, 638,635, 316,635, 316,624",
                                             "kioskid": 114
@@ -5779,7 +5935,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate62A",
+                                    "hotspotdescription": " 15 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,473, 638,635, 230,635, 230,624",
                                             "kioskid": 114
@@ -5805,7 +5961,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate62B",
+                                    "hotspotdescription": " 15 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,473, 638,635, 230,635, 230,624",
                                             "kioskid": 114
@@ -5831,7 +5987,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate37",
+                                    "hotspotdescription": " 7 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  804,426, 804,474, 766,512, 748,494",
                                             "kioskid": 114
@@ -5857,7 +6013,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate39",
+                                    "hotspotdescription": " 7 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  804,426, 804,474, 708,570, 690,552",
                                             "kioskid": 114
@@ -5883,7 +6039,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate41",
+                                    "hotspotdescription": " 7 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  804,426, 804,474, 666,612, 648,594",
                                             "kioskid": 114
@@ -5909,7 +6065,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate42",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,473, 633,640, 633,644, 628,644, 628,654",
                                             "kioskid": 114
@@ -5936,7 +6092,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate46",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,473, 633,640, 633,644, 564,644, 564,652, 487,652, 487,654",
                                             "kioskid": 114
@@ -5962,7 +6118,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate48",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,473, 633,640, 633,644, 564,644, 564,652, 445,652, 445,654",
                                             "kioskid": 114
@@ -5988,7 +6144,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate50",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,473, 633,640, 633,644, 564,644, 564,652, 402,652, 402,654",
                                             "kioskid": 114
@@ -6014,7 +6170,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate52",
+                                    "hotspotdescription": " 15 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,473, 633,640, 633,644, 564,644, 564,652, 359,652, 359,654",
                                             "kioskid": 114
@@ -6040,7 +6196,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate54",
+                                    "hotspotdescription": " 15 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,473, 633,640, 633,644, 564,644, 564,652, 316,652, 316,654",
                                             "kioskid": 114
@@ -6066,7 +6222,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate56",
+                                    "hotspotdescription": " 15 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,473, 633,640, 633,644, 564,644, 564,652, 276,652, 276,654",
                                             "kioskid": 114
@@ -6092,7 +6248,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate43",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,473, 638,635, 572,635, 572,624",
                                             "kioskid": 114
@@ -6118,7 +6274,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate45",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,473, 638,635, 530,635, 530,624",
                                             "kioskid": 114
@@ -6144,7 +6300,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate47",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,473, 638,635, 487,635, 487,624",
                                             "kioskid": 114
@@ -6170,7 +6326,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate49",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,473, 638,635, 445,635, 445,624",
                                             "kioskid": 114
@@ -6196,7 +6352,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate51",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,473, 638,635, 402,635, 402,624",
                                             "kioskid": 114
@@ -6222,7 +6378,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate53",
+                                    "hotspotdescription": " 15 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,473, 638,635, 359,635, 359,624",
                                             "kioskid": 114
@@ -6248,7 +6404,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate55",
+                                    "hotspotdescription": " 15 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,473, 638,635, 316,635, 316,624",
                                             "kioskid": 114
@@ -6274,7 +6430,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate62",
+                                    "hotspotdescription": " 15 ",
                                     "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,473, 638,635, 230,635, 230,624",
                                             "kioskid": 114
@@ -10187,7 +10343,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate1",
+                                    "hotspotdescription": " 7 ",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 710,424 730,423 730,445 746,445 748,490 812,559 825,550",
                                         "kioskid": 114
@@ -10208,7 +10364,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate1A",
+                                    "hotspotdescription": " 7 ",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 710,424 730,423 730,445 746,445 748,490 812,559 825,550",
                                         "kioskid": 114
@@ -10229,7 +10385,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate1B",
+                                    "hotspotdescription": " 7 ",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 710,424 730,423 730,445 746,445 748,490 812,559 825,550",
                                         "kioskid": 114
@@ -10250,7 +10406,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate3",
+                                    "hotspotdescription": " 7 ",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 710,424 730,423 730,445 746,445 748,490 866,620 880,608",
                                         "kioskid": 114
@@ -10271,7 +10427,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate3A",
+                                    "hotspotdescription": " 7 ",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 710,424 730,423 730,445 746,445 748,490 866,620 880,608",
                                         "kioskid": 114
@@ -10292,7 +10448,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate3B",
+                                    "hotspotdescription": " 7 ",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 710,424 730,423 730,445 746,445 748,490 866,620 880,608",
                                         "kioskid": 114
@@ -10313,7 +10469,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate4",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 710,424 730,423 730,445 746,445 748,492 890,644 900,650 952,652 952,662",
                                         "kioskid": 114
@@ -10334,7 +10490,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate4A",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 710,424 730,423 730,445 746,445 748,492 890,644 900,650 952,652 952,662",
                                         "kioskid": 114
@@ -10355,7 +10511,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate4B",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 710,424 730,423 730,445 746,445 748,492 890,644 900,650 952,652 952,662",
                                         "kioskid": 114
@@ -10376,7 +10532,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate7",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 710,424 730,423 730,445 746,445 748,494 896,647.5 1037,646 1037,636",
                                         "kioskid": 114
@@ -10398,7 +10554,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate7A",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 710,424 730,423 730,445 746,445 748,494 896,647.5 1037,646 1037,636",
                                         "kioskid": 114
@@ -10420,7 +10576,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate7B",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 710,424 730,423 730,445 746,445 748,494 896,647.5 1037,646 1037,636",
                                         "kioskid": 114
@@ -10441,7 +10597,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate8",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 710,424 730,423 730,445 746,445 748,492 890,644 900,650 1038,652 1038,662",
                                         "kioskid": 114
@@ -10463,7 +10619,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate8A",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 710,424 730,423 730,445 746,445 748,492 890,644 900,650 1038,652 1038,662",
                                         "kioskid": 114
@@ -10484,7 +10640,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate8B",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 710,424 730,423 730,445 746,445 748,492 890,644 900,650 1038,652 1038,662",
                                         "kioskid": 114
@@ -10505,7 +10661,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate6",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 710,424 730,423 730,445 746,445 748,492 890,644 900,650 996,652 996,662",
                                         "kioskid": 114
@@ -10526,7 +10682,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate6",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 710,424 730,423 730,445 746,445 748,492 890,644 900,650 996,652 996,662",
                                         "kioskid": 114
@@ -10547,7 +10703,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate6",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 710,424 730,423 730,445 746,445 748,492 890,644 900,650 996,652 996,662",
                                         "kioskid": 114
@@ -10568,7 +10724,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate9",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 710,424 730,423 730,445 746,445 748,494 896,647.5 1118,646 1118,638",
                                         "kioskid": 114
@@ -10589,7 +10745,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate9A",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 710,424 730,423 730,445 746,445 748,494 896,647.5 1118,646 1118,638",
                                         "kioskid": 114
@@ -10610,7 +10766,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate9B",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 710,424 730,423 730,445 746,445 748,494 896,647.5 1118,646 1118,638",
                                         "kioskid": 114
@@ -10631,7 +10787,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate10",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 710,424 730,423 730,445 746,445 748,492 898,651.5  1117,652 1117,662",
                                         "kioskid": 114
@@ -10652,7 +10808,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate10A",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 710,424 730,423 730,445 746,445 748,492 898,651.5  1117,652 1117,662",
                                         "kioskid": 114
@@ -10673,7 +10829,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate10B",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 710,424 730,423 730,445 746,445 748,492 898,651.5  1117,652 1117,662",
                                         "kioskid": 114
@@ -10694,7 +10850,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate11",
+                                    "hotspotdescription": " 15 ",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 710,424 730,423 730,445 746,445 748,494 896,647.5 1195,646 1195,638",
                                         "kioskid": 114
@@ -10715,7 +10871,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate11A",
+                                    "hotspotdescription": " 15 ",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 710,424 730,423 730,445 746,445 748,494 896,647.5 1195,646 1195,638",
                                         "kioskid": 114
@@ -10736,7 +10892,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate11B",
+                                    "hotspotdescription": " 15 ",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 710,424 730,423 730,445 746,445 748,494 896,647.5 1195,646 1195,638",
                                         "kioskid": 114
@@ -10757,7 +10913,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate12",
+                                    "hotspotdescription": " 15 ",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 710,424 730,423 730,445 746,445 748,492 898,651.5  1196,652 1196,662",
                                         "kioskid": 114
@@ -10778,7 +10934,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate12A",
+                                    "hotspotdescription": " 15 ",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 710,424 730,423 730,445 746,445 748,492 898,651.5  1196,652 1196,662",
                                         "kioskid": 114
@@ -10799,7 +10955,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate12B",
+                                    "hotspotdescription": " 15 ",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 710,424 730,423 730,445 746,445 748,492 898,651.5  1196,652 1196,662",
                                         "kioskid": 114
@@ -10820,7 +10976,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate13",
+                                    "hotspotdescription": " 15 ",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 710,424 730,423 730,445 746,445 748,494 896,647.5 1272,646 1272,638",
                                         "kioskid": 114
@@ -10841,7 +10997,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate13A",
+                                    "hotspotdescription": " 15 ",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 710,424 730,423 730,445 746,445 748,494 896,647.5 1272,646 1272,638",
                                         "kioskid": 114
@@ -10862,7 +11018,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate13B",
+                                    "hotspotdescription": " 15 ",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 710,424 730,423 730,445 746,445 748,494 896,647.5 1272,646 1272,638",
                                         "kioskid": 114
@@ -10883,7 +11039,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate14",
+                                    "hotspotdescription": " 15 ",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 710,424 730,423 730,445 746,445 748,492 898,651.5  1274,652 1274,662",
                                         "kioskid": 114
@@ -10904,7 +11060,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate14A",
+                                    "hotspotdescription": " 15 ",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 710,424 730,423 730,445 746,445 748,492 898,651.5  1274,652 1274,662",
                                         "kioskid": 114
@@ -10925,7 +11081,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate14B",
+                                    "hotspotdescription": " 15 ",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 710,424 730,423 730,445 746,445 748,492 898,651.5  1274,652 1274,662",
                                         "kioskid": 114
@@ -10946,7 +11102,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate15",
+                                    "hotspotdescription": " 7 ",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 710,424 725,423 730,423  730,436 760,436",
                                         "kioskid": 114
@@ -10967,7 +11123,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate15A",
+                                    "hotspotdescription": " 7 ",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 710,424 725,423 730,423  730,436 760,436",
                                         "kioskid": 114
@@ -10988,7 +11144,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate15B",
+                                    "hotspotdescription": " 7 ",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 710,424 725,423 730,423  730,436 760,436",
                                         "kioskid": 114
@@ -11009,7 +11165,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate17",
+                                    "hotspotdescription": " 7 ",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 710,424 725,423 730,423 730,416 747.5,416 747.5,356 758,356",
                                         "kioskid": 114
@@ -11030,7 +11186,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate17A",
+                                    "hotspotdescription": " 7 ",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 710,424 725,423 730,423 730,416 747.5,416 747.5,356 758,356",
                                         "kioskid": 114
@@ -11051,7 +11207,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate17B",
+                                    "hotspotdescription": " 7 ",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 710,424 725,423 730,423 730,416 747.5,416 747.5,356 758,356",
                                         "kioskid": 114
@@ -11072,7 +11228,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate18",
+                                    "hotspotdescription": " 7 ",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 710,424 725,423 729,423  729,416 729,370 741,370 741,320 730,320",
                                         "kioskid": 114
@@ -11093,7 +11249,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate18A",
+                                    "hotspotdescription": " 7 ",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 710,424 725,423 729,423  729,416 729,370 741,370 741,320 730,320",
                                         "kioskid": 114
@@ -11114,7 +11270,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate18B",
+                                    "hotspotdescription": " 7 ",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 710,424 725,423 729,423  729,416 729,370 741,370 741,320 730,320",
                                         "kioskid": 114
@@ -11135,7 +11291,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate19",
+                                    "hotspotdescription": " 7 ",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 710,424 725,423 730,423 730,416 747.5,416 747.5,277 758,277",
                                         "kioskid": 114
@@ -11156,7 +11312,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate19A",
+                                    "hotspotdescription": " 7 ",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 710,424 725,423 730,423 730,416 747.5,416 747.5,277 758,277",
                                         "kioskid": 114
@@ -11177,7 +11333,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate19B",
+                                    "hotspotdescription": " 7 ",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 710,424 725,423 730,423 730,416 747.5,416 747.5,277 758,277",
                                         "kioskid": 114
@@ -11198,7 +11354,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate20",
+                                    "hotspotdescription": " 7 ",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 710,424 725,423 729,423  729,416 729,370 741,370 741,277 730,277 ",
                                         "kioskid": 114
@@ -11219,7 +11375,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate20A",
+                                    "hotspotdescription": " 7 ",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 710,424 725,423 729,423  729,416 729,370 741,370 741,277 730,277",
                                         "kioskid": 114
@@ -11240,7 +11396,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate20B",
+                                    "hotspotdescription": " 7 ",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 710,424 725,423 729,423  729,416 729,370 741,370 741,277 730,277",
                                         "kioskid": 114
@@ -11261,7 +11417,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate21",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 710,424 725,423 730,423 730,416 747.5,416 747.5,200 758,200",
                                         "kioskid": 114
@@ -11282,7 +11438,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate21A",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 710,424 725,423 730,423 730,416 747.5,416 747.5,200 758,200",
                                         "kioskid": 114
@@ -11303,7 +11459,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate21B",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 710,424 725,423 730,423 730,416 747.5,416 747.5,200 758,200",
                                         "kioskid": 114
@@ -11323,7 +11479,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate22",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 710,424 725,423 729,423  729,416 729,370 741,370 741,198 730,198",
                                         "kioskid": 114
@@ -11344,7 +11500,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate22A",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 710,424 725,423 729,423  729,416 729,370 741,370 741,198 730,198",
                                         "kioskid": 114
@@ -11365,7 +11521,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate22B",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 710,424 725,423 729,423  729,416 729,370 741,370 741,198 730,198",
                                         "kioskid": 114
@@ -11386,7 +11542,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate24",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 710,424 725,423 729,423  729,416 729,370 741,370 741,119 730,119",
                                         "kioskid": 114
@@ -11407,7 +11563,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate24A",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 710,424 725,423 729,423  729,416 729,370 741,370 741,119 730,119",
                                         "kioskid": 114
@@ -11428,7 +11584,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate24B",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 710,424 725,423 729,423  729,416 729,370 741,370 741,119 730,119",
                                         "kioskid": 114
@@ -11449,7 +11605,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate26A",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 710,424 725,423 729,423  729,416 729,370 741,370 741,60 730,60",
                                         "kioskid": 114
@@ -11470,7 +11626,7 @@
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "gates",
                                     "transitforkioskid": "na",
-                                    "hotspotdescription": "gate26B",
+                                    "hotspotdescription": " 11 ",
                                     "path": [{
                                         "pathpoints": "572,580.5, 628,580.5 628,470 626,465 625.5,464 624,460 623.5,459 623,458 622.5,457 621.5,456.5 620,456 610,456 609.3,455 608.5,454 607,452 606.5,450 606,447 605,445 604,444 603,443 602,442.5 600,442 599,441.8 582,441.5 581,441 580,440.5 578,438 577,435 575.2,429 575,428.5 574.5,428 573.5,427 571.8,425 570.7,422 571,419 571.5,416.5 573.5,414.5 578,413.3 585,412.5 592,412 610,412 617,414 618.5,414.5 619.5,416 619.7,418 619.9,419 620.9,420 621.5,420.6 625,423 628,424 630,424.7 640,427.2 660,427 680,426 700,425 710,424 725,423 730,423 730,416 747.5,416 747.5,90 758,90",
                                         "kioskid": 114

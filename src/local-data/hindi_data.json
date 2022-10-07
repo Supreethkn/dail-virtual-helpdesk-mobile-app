@@ -177,8 +177,34 @@
                                 {
                                     "hotspotcolorcode": "9388BA",
                                     "transitmode": "na",
-                                    "hotspotxpos": [{ "x1": "867.8", "x2": "0"}],
-                                    "hotspotypos": [{ "y1": "384.5", "y2": "0"}],
+                                    "hotspotxpos": 878,
+                                    "hotspotypos": 320,
+                                    "isprecheckin": "false",
+                                    "svggroupid": "burger king",
+                                    "hotspoticon": "TextLogoBg.png",
+                                    "transitforkioskid": "na",
+                                    "hotspotdescription": "BURGER KING",
+                                    "path": [{
+                                            "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  804,426, 804,409, 823,409",
+                                            "kioskid": 114
+                                        },
+                                        {
+                                            "pathpoints": "727,388, 727,381 722,376 716,376 704,383 678,383 670,381 663,377 659,377 658,377 645,390 598,390 598,374 615.2,374",
+                                            "kioskid": 115
+                                        }
+                                    ],
+                                    "hotspotstatus": "yes",
+                                    "transithotspot": "no",
+                                    "hotspotid": 823,
+                                    "hotspotdisplayname": { "name": "BURGER KING", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
+                                    "categoryid": 120,
+                                    "hotspotname": "BURGER KING"
+                                },
+                                {
+                                    "hotspotcolorcode": "9388BA",
+                                    "transitmode": "na",
+                                    "hotspotxpos": [{ "x1": "867.8", "x2": "657.8"}],
+                                    "hotspotypos": [{ "y1": "384.5", "y2": "350.8"}],
                                     "isprecheckin": "false",
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "TextLogoBg.png",
@@ -189,7 +215,7 @@
                                         "kioskid": 114
                                     },
                                     {
-                                        "pathpoints": "978,573 949,573 949,576",
+                                        "pathpoints": "727,388, 727,368 720,360 714,357 657,357 657,353",
                                         "kioskid": 115
                                     }],
                                     "hotspotstatus": "yes",
@@ -202,8 +228,8 @@
                                 {
                                     "hotspotcolorcode": "9388BA",
                                     "transitmode": "na",
-                                    "hotspotxpos": [{ "x1": "808.5", "x2": "0"}],
-                                    "hotspotypos": [{ "y1": "413", "y2": "0"}],
+                                    "hotspotxpos": [{ "x1": "808.5", "x2": "601.8"}],
+                                    "hotspotypos": [{ "y1": "413", "y2": "377.5"}],
                                     "isprecheckin": "false",
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "TextLogoBg.png",
@@ -214,7 +240,7 @@
                                         "kioskid": 114
                                     },
                                     {
-                                        "pathpoints": "978,573 949,573 949,576",
+                                        "pathpoints": "727,388, 727,381 722,376 716,376 704,383 678,383 670,381 663,377 659,377 658,377 645,390 598,390 598,377.5 600,377.5",
                                         "kioskid": 115
                                     }],
                                     "hotspotstatus": "yes",
@@ -227,8 +253,8 @@
                                 {
                                     "hotspotcolorcode": "9388BA",
                                     "transitmode": "na",
-                                    "hotspotxpos": [{ "x1": "808.3", "x2": "0"}],
-                                    "hotspotypos": [{ "y1": "445.7", "y2": "0"}],
+                                    "hotspotxpos": [{ "x1": "808.3", "x2": "601.8"}],
+                                    "hotspotypos": [{ "y1": "445.7", "y2": "408.3"}],
                                     "isprecheckin": "false",
                                     "svggroupid": "111_ALLEN_SOLLY",
                                     "hotspoticon": "TextLogoBg.png",
@@ -239,7 +265,7 @@
                                         "kioskid": 114
                                     },
                                     {
-                                        "pathpoints": "978,573 949,573 949,576",
+                                        "pathpoints": "727,388 727,381 722,376 716,376 704,383 678,383 670,381 663,377 659,377 658,377 645,390 588,390 588,409 597,409",
                                         "kioskid": 115
                                     }],
                                     "hotspotstatus": "yes",
@@ -3791,34 +3817,8 @@
                                     "transithotspot": "no",
                                     "hotspotid": 818,
                                     "hotspotdisplayname": { "name": "BIKANERWALA", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
-                                    "categoryid": 110,
+                                    "categoryid": 120,
                                     "hotspotname": "BIKANERWALA"
-                                },
-                                {
-                                    "hotspotcolorcode": "9388BA",
-                                    "transitmode": "na",
-                                    "hotspotxpos": 878,
-                                    "hotspotypos": 320,
-                                    "isprecheckin": "false",
-                                    "svggroupid": "Samsung",
-                                    "hotspoticon": "TextLogoBg.png",
-                                    "transitforkioskid": "na",
-                                    "hotspotdescription": "SAMSUNG",
-                                    "path": [{
-                                            "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435, 942,415, 942,402, 935,395, 927,392, 907,392, 907,387",
-                                            "kioskid": 114
-                                        },
-                                        {
-                                            "pathpoints": "727,388, 727,368 720,360 714,357 694,357 694,354",
-                                            "kioskid": 115
-                                        }
-                                    ],
-                                    "hotspotstatus": "yes",
-                                    "transithotspot": "no",
-                                    "hotspotid": 819,
-                                    "hotspotdisplayname": { "name": "SAMSUNG", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
-                                    "categoryid": 110,
-                                    "hotspotname": "SAMSUNG"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -3897,32 +3897,6 @@
                                     "hotspotdisplayname": { "name": "BIRKENSTOCK", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
                                     "categoryid": 110,
                                     "hotspotname": "BIRKENSTOCK"
-                                },
-                                {
-                                    "hotspotcolorcode": "9388BA",
-                                    "transitmode": "na",
-                                    "hotspotxpos": 878,
-                                    "hotspotypos": 320,
-                                    "isprecheckin": "false",
-                                    "svggroupid": "O2_Spa",
-                                    "hotspoticon": "TextLogoBg.png",
-                                    "transitforkioskid": "na",
-                                    "hotspotdescription": "O2 SPA",
-                                    "path": [{
-                                            "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  804,426, 804,409, 823,409",
-                                            "kioskid": 114
-                                        },
-                                        {
-                                            "pathpoints": "727,388, 727,381 722,376 716,376 704,383 678,383 670,381 663,377 659,377 658,377 645,390 598,390 598,374 615.2,374",
-                                            "kioskid": 115
-                                        }
-                                    ],
-                                    "hotspotstatus": "yes",
-                                    "transithotspot": "no",
-                                    "hotspotid": 823,
-                                    "hotspotdisplayname": { "name": "O2 SPA", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
-                                    "categoryid": 110,
-                                    "hotspotname": "O2 SPA"
                                 },
                                 {
                                     "hotspotcolorcode": "9388BA",
@@ -11917,28 +11891,6 @@
                                     "hotspotid": 1029,
                                     "categoryid": 120,
                                     "hotspotname": "CURRY KITCHEN"
-                                },
-                                {
-                                    "hotspotcolorcode": "9388BA",
-                                    "transitmode": "na",
-                                    "hotspotxpos": 878,
-                                    "hotspotypos": 320,
-                                    "isprecheckin": "false",
-                                    "svggroupid": "111_ALLEN_SOLLY",
-                                    "hotspoticon": "TextLogoBg.png",
-                                    "transitforkioskid": "na",
-                                    "hotspotdescription": "O2 SPA",
-                                    "hotspotdisplayname": { "name": "O2 SPA", "description": ["Head strait west on Queens Arcade toward The Quadrant Shopping Centre", "Turn left on to The Quadrant Shopping Centre walk strait"] },
-
-                                    "path": [{
-                                        "pathpoints": "946,150 930,150 930,180 1075,180 1075,340 1069,365 1055,393 1047,406 1040,415 1025,427 995,437 980,439 950,439 850,429 735,395 730,410",
-                                        "kioskid": 1021
-                                    }],
-                                    "hotspotstatus": "yes",
-                                    "transithotspot": "na",
-                                    "hotspotid": 1030,
-                                    "categoryid": 110,
-                                    "hotspotname": "O2 SPA"
                                 }
                             ]
                         }

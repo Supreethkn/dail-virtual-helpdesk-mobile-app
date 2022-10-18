@@ -5027,6 +5027,32 @@
                                     "transitforkioskid": "na",
                                     "hotspotdescription": " 11 ",
                                     "path": [{
+                                            "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,473, 633,640, 633,644, 628,644, 628,654",
+                                            "kioskid": 114
+                                        },
+                                        {
+                                            "pathpoints": "727,388, 727,381 722,376 716,376 704,383 678,383 670,381 663,377 659,377 658,377.5 646,390 590.7,390 590.7,438 437,591 437,593 431.8,593 431.8,604.5",
+                                            "kioskid": 115
+                                        }
+                                    ],
+                                    "hotspotstatus": "yes",
+                                    "transithotspot": "no",
+                                    "hotspotid": 8668,
+                                    "hotspotdisplayname": "gate42C",
+                                    "categoryid": 122,
+                                    "hotspotname": "42C"
+                                },
+                                {
+                                    "hotspotcolorcode": "9388BA",
+                                    "transitmode": "na",
+                                    "hotspotxpos": 878,
+                                    "hotspotypos": 320,
+                                    "isprecheckin": "false",
+                                    "svggroupid": "111_ALLEN_SOLLY",
+                                    "hotspoticon": "gates",
+                                    "transitforkioskid": "na",
+                                    "hotspotdescription": " 11 ",
+                                    "path": [{
                                             "pathpoints": "978,573, 934,573, 934,486, 934,444, 942,435 942,415 937,411 930,411 917,418 890,418 885,417 882,416 879,414 874,412 870,412 869,412.5 855,426  800,426, 800,473, 633,640, 633,644, 564,644, 564,654",
                                             "kioskid": 114
                                         },
